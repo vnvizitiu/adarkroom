@@ -1,248 +1,244 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: adarkroom\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-11-01 20:13-0400\n"
-"PO-Revision-Date: 2017-01-04 14:57+0800\n"
-"Last-Translator: crafteverywhere <1196377271@qq.com>\n"
-"Language-Team: WhiteGem\n"
-"Language: zh_CN\n"
+"POT-Creation-Date: 2016-11-23 03:46+0000\n"
+"PO-Revision-Date: 2017-04-19 00:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt_LT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 1.8.11\n"
-"X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
-"X-POOTLE-MTIME: 1421483365.000000\n"
-"X-Poedit-SearchPath-0: ./../../script\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: script/dropbox.js:62
 msgid "Dropbox connection"
-msgstr "dropbox连接"
+msgstr "Dropbox ryšys"
 
 #: script/dropbox.js:65
 msgid "connect game to dropbox local storage"
-msgstr "连接到dropbox云存储"
+msgstr "prijungti žaidimą prie dropbox vietinės saugyklos"
 
 #: script/dropbox.js:68
 msgid "connect"
-msgstr "连接"
+msgstr "sujungti"
 
 #: script/dropbox.js:75 script/dropbox.js:107 script/dropbox.js:133
 #: script/dropbox.js:163 script/engine.js:285 script/engine.js:331
 msgid "cancel"
-msgstr "取消"
+msgstr "atšaukti"
 
 #: script/dropbox.js:86 script/dropbox.js:176
 msgid "Dropbox Export / Import"
-msgstr "dropbox导出/导入"
+msgstr "Iškelti iš / Įkelti į Dropbox"
 
 #: script/dropbox.js:89
 msgid "export or import save data to dropbox datastorage"
-msgstr "导出或导入存档文件到dropbox"
+msgstr "iškelti ar įkelti išsaugojimo duomenis į dropbox duomenų saugyklą"
 
 #: script/dropbox.js:90
 msgid "your are connected to dropbox with account / email "
-msgstr "您已用此账户/电子邮件连接到dropbox: "
+msgstr "esate prisijungę prie dropbox su paskyra / el. paštu"
 
 #: script/dropbox.js:93
 msgid "save"
-msgstr "保存"
+msgstr "išsaugoti"
 
 #: script/dropbox.js:97
 msgid "load"
-msgstr "加载"
+msgstr "įkelti"
 
 #: script/dropbox.js:102
 msgid "signout"
-msgstr "登出"
+msgstr "atsijungti"
 
 #: script/dropbox.js:113
 msgid "choose one slot to save to"
-msgstr "选择保存位置"
+msgstr "pasirinkite lauką kuriame išsaugoti"
 
 #: script/dropbox.js:119
 msgid "save to slot"
-msgstr "保存到位置"
+msgstr "išsaugoti į lauką"
 
 #: script/dropbox.js:141
 msgid "choose one slot to load from"
-msgstr "选择加载位置"
+msgstr "pasirinkite iš kur įkelti"
 
 #: script/dropbox.js:148
 msgid "load from slot"
-msgstr "加载"
+msgstr "įkelti iš lauko"
 
 #: script/dropbox.js:179
 msgid "successfully saved to dropbox datastorage"
-msgstr "成功保存到dropbox"
+msgstr "sėkmingai išsaugota dropbox duomenų saugykloje"
 
 #: script/dropbox.js:180
 msgid "error while saving to dropbox datastorage"
-msgstr "保存到dropbox出错"
+msgstr "klaida išsaugojant dropbox duomenų saugykloje"
 
 #: script/dropbox.js:183
 msgid "ok"
-msgstr "确认"
+msgstr "gerai"
 
 #: script/engine.js:15
 msgid "boxer"
-msgstr "拳击手"
+msgstr "boksininkas"
 
 #: script/engine.js:16
 msgid "punches do more damage"
-msgstr "徒手伤害翻倍"
+msgstr "smūgiai stipresni"
 
 #: script/engine.js:18
 msgid "learned to throw punches with purpose"
-msgstr "学会了有意识地出拳"
+msgstr "išmoko ryžtingai smūgiuoti"
 
 #: script/engine.js:21
 msgid "martial artist"
-msgstr "武斗家"
+msgstr "kovos menų meistras"
 
 #: script/engine.js:22
 msgid "punches do even more damage."
-msgstr "徒手造成更多更多的伤害"
+msgstr "smūgiai dar stipresni"
 
 #: script/engine.js:23
 msgid "learned to fight quite effectively without weapons"
-msgstr "学会了高效率的徒手搏击"
+msgstr "išmoko gan efektyviai kautis be ginklų"
 
 #: script/engine.js:27
 msgid "unarmed master"
-msgstr "徒手宗师"
+msgstr "beginklis meistras"
 
 #: script/engine.js:28
 msgid "punch twice as fast, and with even more force"
-msgstr "出拳速度翻倍，力道也更大"
+msgstr "smūgiuoti dvigubai greičiau ir dar stipriau"
 
 #: script/engine.js:29
 msgid "learned to strike faster without weapons"
-msgstr "学会了如何更快速地出拳"
+msgstr "išmoko smūgiuoti greičiau be ginklų"
 
 #: script/engine.js:32
 msgid "barbarian"
-msgstr "野蛮人"
+msgstr "barbaras"
 
 #: script/engine.js:33
 msgid "melee weapons deal more damage"
-msgstr "近战武器造成更高伤害"
+msgstr "šaltieji ginklai sukelia daugiau žalos"
 
 #: script/engine.js:34
 msgid "learned to swing weapons with force"
-msgstr "学会了如何发挥劲力，挥舞武器"
+msgstr "išmoko galingai smūgiuoti ginklais"
 
-# contexte ?
 #: script/engine.js:37
 msgid "slow metabolism"
-msgstr "减缓代谢"
+msgstr "lėta medžiagų apykaita"
 
 #: script/engine.js:38
 msgid "go twice as far without eating"
-msgstr "不吃东西能坚持走的距离翻倍"
+msgstr "eiti dvigubai toliau nevalgius"
 
 #: script/engine.js:39
 msgid "learned how to ignore the hunger"
-msgstr "学会如何忍饥挨饿"
+msgstr "išmoko nekreipti dėmesio į alkį"
 
 #: script/engine.js:42
 msgid "desert rat"
-msgstr "荒漠跳鼠"
+msgstr "dykumų žiurkė"
 
 #: script/engine.js:43
 msgid "go twice as far without drinking"
-msgstr "不喝水能坚持走的距离翻倍"
+msgstr "eiti dvigubai toliau negėrus"
 
 #: script/engine.js:44
 msgid "learned to love the dry air"
-msgstr "热点算什么"
+msgstr "priprato prie sauso oro"
 
 #: script/engine.js:47
 msgid "evasive"
-msgstr "避实就虚"
+msgstr "išsisukinėjantis"
 
 #: script/engine.js:48
 msgid "dodge attacks more effectively"
-msgstr "更有效的闪避攻击"
+msgstr "efektyviai išvengti puolimų"
 
 #: script/engine.js:49
 msgid "learned to be where they're not"
-msgstr "学会了闪避攻击"
+msgstr "išmoko būti ten, kur jų nėra"
 
 #: script/engine.js:52
 msgid "precise"
-msgstr "精密"
+msgstr "taiklus"
 
-# description pour la précision ...
 #: script/engine.js:53
 msgid "land blows more often"
-msgstr "命中率提高"
+msgstr "dažniau pataikyti"
 
 #: script/engine.js:54
 msgid "learned to predict their movement"
-msgstr "学会预判他人的动作"
+msgstr "išmoko nuspėti jų judesius"
 
 #: script/engine.js:57
 msgid "scout"
-msgstr "侦查术"
+msgstr "žvalgas"
 
 #: script/engine.js:58
 msgid "see farther"
-msgstr "看得更远"
+msgstr "toliau matyti"
 
 #: script/engine.js:59
 msgid "learned to look ahead"
-msgstr "强化视野"
+msgstr "išmoko žiūrėti pirmyn"
 
 #: script/engine.js:62
 msgid "stealthy"
-msgstr "潜行"
+msgstr "tylus"
 
 #: script/engine.js:63
 msgid "better avoid conflict in the wild"
-msgstr "更好地回避荒野中的冲突"
+msgstr "geriau išvengti kivirčų"
 
 #: script/engine.js:64
 msgid "learned how not to be seen"
-msgstr "学会了隐匿身形"
+msgstr "išmoko būti nematomu"
 
 #: script/engine.js:67
 msgid "gastronome"
-msgstr "美食家"
+msgstr "gurmanas"
 
 #: script/engine.js:68
 msgid "restore more health when eating"
-msgstr "进食恢复更多生命"
+msgstr "valgant atstatyti daugiau sveikatos"
 
 #: script/engine.js:69
 msgid "learned to make the most of food"
-msgstr "学会充分消化食物"
+msgstr "išmoko tausoti maistą"
 
 #: script/engine.js:138 script/space.js:450
 msgid "app store."
-msgstr "应用商店."
+msgstr "app store."
 
 #: script/engine.js:144 script/engine.js:485
 msgid "lights off."
-msgstr "夜间模式"
+msgstr "išjungti šviesas."
 
 #: script/engine.js:150 script/engine.js:521
 msgid "hyper."
-msgstr "加速."
+msgstr "hyper."
 
 #: script/engine.js:156 script/space.js:442
 msgid "restart."
-msgstr "重启."
+msgstr "perkrauti."
 
 #: script/engine.js:162
 msgid "share."
-msgstr "分享."
+msgstr "dalintis."
 
 #: script/engine.js:168
 msgid "save."
-msgstr "保存."
+msgstr "išsaugoti."
 
 #: script/engine.js:177
 msgid "dropbox."
@@ -254,128 +250,128 @@ msgstr "github."
 
 #: script/engine.js:268
 msgid "Export / Import"
-msgstr "导出/导入"
+msgstr "Iškelti / Įkelti"
 
 #: script/engine.js:272
 msgid "export or import save data, for backing up"
-msgstr "导出或导入存档文件，用于备份"
+msgstr "iškelti arba įkelti išsaugojimo duomenis atsargai"
 
 #: script/engine.js:273
 msgid "or migrating computers"
-msgstr "或别处的电脑"
+msgstr "arba keičiant kompiuterius"
 
 #: script/engine.js:277
 msgid "export"
-msgstr "导出"
+msgstr "iškelti"
 
 #: script/engine.js:281 script/engine.js:326
 msgid "import"
-msgstr "导入"
+msgstr "įkelti"
 
 #: script/engine.js:291
 msgid "save this."
-msgstr "保存此代码"
+msgstr "išsaugokite tai."
 
 #: script/engine.js:297
 msgid "got it"
-msgstr "已完成"
+msgstr "aišku"
 
 #: script/engine.js:305
 msgid "are you sure?"
-msgstr "您确定吗？"
+msgstr "ar tikrai?"
 
 #: script/engine.js:306
 msgid "if the code is invalid, all data will be lost."
-msgstr "如果存档代码无效，所有数据均会丢失。"
+msgstr "jei kodas netaisyklingas, visi duomenys bus prarasti"
 
 #: script/engine.js:307
 msgid "this is irreversible."
-msgstr "此操作不可撤销。"
+msgstr "tai nepakeičiama."
 
 #: script/engine.js:311 script/engine.js:380 script/engine.js:499
 msgid "yes"
-msgstr "是"
+msgstr "taip"
 
 #: script/engine.js:316 script/engine.js:385 script/engine.js:504
 msgid "no"
-msgstr "否"
+msgstr "ne"
 
 #: script/engine.js:322
 msgid "put the save code here."
-msgstr "此处可填入存档代码"
+msgstr "įrašykite save kodą čia."
 
 #: script/engine.js:374
 msgid "Restart?"
-msgstr "重开?"
+msgstr "Perkrauti?"
 
 #: script/engine.js:377
 msgid "restart the game?"
-msgstr "重开游戏?"
+msgstr "perkrauti žaidimą?"
 
 #: script/engine.js:408
 msgid "Share"
-msgstr "分享"
+msgstr "Dalintis"
 
 #: script/engine.js:411
 msgid "bring your friends."
-msgstr "分享给你的好友"
+msgstr "atsivesk draugus."
 
 #: script/engine.js:414
 msgid "facebook"
-msgstr "脸书"
+msgstr "facebook"
 
 #: script/engine.js:421
 msgid "google+"
-msgstr "环聊"
+msgstr "google+"
 
 #: script/engine.js:428
 msgid "twitter"
-msgstr "推特"
+msgstr "twitter"
 
 #: script/engine.js:435
 msgid "reddit"
-msgstr "红迪"
+msgstr "reddit"
 
 #: script/engine.js:442
 msgid "close"
-msgstr "关闭"
+msgstr "close"
 
 #: script/engine.js:476 script/engine.js:480
 msgid "lights on."
-msgstr "开灯"
+msgstr "lights on."
 
 #: script/engine.js:493
 msgid "Go Hyper?"
-msgstr "要加速么？"
+msgstr "Įjungti Hyper?"
 
 #: script/engine.js:496
 msgid ""
 "turning hyper mode speeds up the game to x2 speed. do you want to do that?"
-msgstr "你想要打开加速模式使游戏速度x2么？"
+msgstr "hyper režimas dvigubai pagreitina žaidimą. įjungti?"
 
 #: script/engine.js:519
 msgid "classic."
-msgstr "原速."
+msgstr "įprastas."
 
 #: script/engine.js:620
 msgid "{0} per {1}s"
-msgstr "{0}/{1}秒"
+msgstr "(0) per (1)s"
 
 #: script/events.js:130
 msgid "eat meat"
-msgstr "吃肉"
+msgstr "valgyti mėsą"
 
 #: script/events.js:150
 msgid "use meds"
-msgstr "服药"
+msgstr "naudoti vaistus"
 
 #: script/events.js:350 script/events.js:395
 msgid "miss"
-msgstr "失手"
+msgstr "nepataikyta"
 
 #: script/events.js:363 script/events.js:408
 msgid "stunned"
-msgstr "惊吓"
+msgstr "apsvaigintas"
 
 #: script/events.js:482 script/events.js:653 script/events/global.js:42
 #: script/events/global.js:59 script/events/room.js:142
@@ -392,1001 +388,1016 @@ msgstr "惊吓"
 #: script/events/setpieces.js:3496 script/events/setpieces.js:3515
 #: script/events/setpieces.js:3539 script/events/setpieces.js:3567
 msgid "leave"
-msgstr "离开"
+msgstr "išeiti"
 
 #: script/events.js:511
 msgid "drop:"
-msgstr "丢弃:"
+msgstr "išmesti:"
 
 #: script/events.js:536 script/events/room.js:523
 msgid "nothing"
-msgstr "一无所获"
+msgstr "nieko"
 
 #: script/events.js:567 script/events/setpieces.js:3551
 msgid "take"
-msgstr "带走"
+msgstr "imti"
 
 #: script/events.js:577
 msgid "take:"
-msgstr "获得:"
+msgstr "imti:"
 
 #: script/events.js:599
-#, fuzzy
 msgid "nothing to take"
-msgstr "一无所获"
+msgstr "nėra nieko ką galima paimti"
 
 #: script/events.js:627
 msgid "all"
-msgstr "全部"
+msgstr "viskas"
 
 #: script/events.js:649
 msgid "take everything"
-msgstr "拿走一切"
+msgstr "imti viską"
 
 #: script/events.js:653 script/outside.js:627
 msgid " and "
-msgstr "以及"
+msgstr "ir"
 
 #: script/events.js:896
 msgid "*** EVENT ***"
-msgstr "*** 消息 ***"
+msgstr "*** ĮVYKIS ***"
 
 #: script/localization.js:4
 msgid "saved."
-msgstr "已保存"
+msgstr "išsaugota."
 
 #: script/localization.js:5
 msgid "wood"
-msgstr "木头"
+msgstr "mediena"
 
 #: script/localization.js:6
 msgid "builder"
-msgstr "建造者"
+msgstr "statytojas"
 
 #: script/localization.js:7
 msgid "teeth"
-msgstr "牙齿"
+msgstr "dantys"
 
 #: script/localization.js:8
 msgid "meat"
-msgstr "肉"
+msgstr "mėsa"
 
 #: script/localization.js:9
 msgid "fur"
-msgstr "毛皮"
+msgstr "kailis"
 
 #: script/localization.js:10
 msgid "alien alloy"
-msgstr "外星合金"
+msgstr "lydinys"
 
 #: script/localization.js:11
 msgid "bullets"
-msgstr "子弹"
+msgstr "kulkos"
 
 #: script/localization.js:12
 msgid "charm"
-msgstr "符咒"
+msgstr "talismanas"
 
 #: script/localization.js:13 script/path.js:138
 msgid "leather"
-msgstr "皮革"
+msgstr "oda"
 
 #: script/localization.js:14 script/path.js:136
 msgid "iron"
-msgstr "铁"
+msgstr "geležis"
 
 #: script/localization.js:15 script/path.js:134
 msgid "steel"
-msgstr "钢"
+msgstr "plienas"
 
 #: script/localization.js:16
 msgid "coal"
-msgstr "煤"
+msgstr "anglis"
 
 #: script/localization.js:17
 msgid "sulphur"
-msgstr "硫磺"
+msgstr "siera"
 
 #: script/localization.js:18
 msgid "energy cell"
-msgstr "能量元件"
+msgstr "energijos elementas"
 
 #: script/localization.js:19 script/room.js:161
 msgid "torch"
-msgstr "火把"
+msgstr "deglas"
 
 #: script/localization.js:20
 msgid "medicine"
-msgstr "药剂"
+msgstr "vaistai"
 
 #: script/localization.js:21 script/outside.js:22
 msgid "hunter"
-msgstr "猎人"
+msgstr "medžiotojas"
 
 #: script/localization.js:22 script/outside.js:30
 msgid "trapper"
-msgstr "陷阱师"
+msgstr "kailinių žvėrelių medžiotojas"
 
 #: script/localization.js:23 script/outside.js:38
 msgid "tanner"
-msgstr "皮革师"
+msgstr "kailiadirbys"
 
 #: script/localization.js:24
 msgid "grenade"
-msgstr "手雷"
+msgstr "granata"
 
 #: script/localization.js:25
 msgid "bolas"
-msgstr "套索"
+msgstr "bola"
 
 #: script/localization.js:26
 msgid "bayonet"
-msgstr "刺刀"
+msgstr "durtuvas"
 
 #: script/localization.js:27 script/outside.js:46
 msgid "charcutier"
-msgstr "熏肉师"
+msgstr "mėsininkas"
 
 #: script/localization.js:28 script/outside.js:55
 msgid "iron miner"
-msgstr "铁矿工人"
+msgstr "geležies kasėjas"
 
 #: script/localization.js:29
 msgid "iron mine"
-msgstr "铁矿"
+msgstr "geležies kasykla"
 
 #: script/localization.js:30 script/outside.js:63
 msgid "coal miner"
-msgstr "煤矿工人"
+msgstr "angliakasys"
 
 #: script/localization.js:31
 msgid "coal mine"
-msgstr "煤矿"
+msgstr "anglies kasykla"
 
 #: script/localization.js:32 script/outside.js:71
 msgid "sulphur miner"
-msgstr "硫磺矿工"
+msgstr "sieros kasėjas"
 
 #: script/localization.js:33
 msgid "sulphur mine"
-msgstr "硫磺矿"
+msgstr "sieros kasykla"
 
 #: script/localization.js:34 script/outside.js:88
 msgid "armourer"
-msgstr "军械工人"
+msgstr "ginklakalys"
 
 #: script/localization.js:35 script/outside.js:79
 msgid "steelworker"
-msgstr "炼钢工人"
+msgstr "plieno apdirbėjas"
 
 #: script/localization.js:36
 msgid "bait"
-msgstr "诱饵"
+msgstr "masalas"
 
 #: script/localization.js:37 script/localization.js:44
 msgid "cured meat"
-msgstr "熏肉"
+msgstr "vytinta mėsytė"
 
 #: script/localization.js:38 script/localization.js:43
 msgid "scales"
-msgstr "鳞片"
+msgstr "žvynai"
 
 #: script/localization.js:39
 msgid "compass"
-msgstr "罗盘"
+msgstr "kompasas"
 
 #: script/localization.js:40
 msgid "laser rifle"
-msgstr "激光步枪"
+msgstr "lazerinis šautuvas"
 
 #: script/localization.js:41 script/outside.js:15
 msgid "gatherer"
-msgstr "采集者"
+msgstr "rankiotojas"
 
 #: script/localization.js:42
 msgid "cloth"
-msgstr "布料"
+msgstr "audeklas"
 
 #: script/localization.js:45
 msgid "thieves"
-msgstr "小偷"
+msgstr "vagys"
 
 #: script/localization.js:46
 msgid "not enough fur"
-msgstr "皮毛不够了"
+msgstr "neužtenka kailio"
 
 #: script/localization.js:47
 msgid "not enough wood"
-msgstr "木头不够了"
+msgstr "neužtenka medienos"
 
 #: script/localization.js:48
 msgid "not enough coal"
-msgstr "煤炭不够了"
+msgstr "neužtenka anglies"
 
 #: script/localization.js:49
 msgid "not enough iron"
-msgstr "铁不够了"
+msgstr "neužtenka geležies"
 
 #: script/localization.js:50
 msgid "not enough steel"
-msgstr "钢不够了"
+msgstr "neužtenka plieno"
 
 #: script/localization.js:51
 msgid "not enough sulphur"
-msgstr "硫磺不够了"
+msgstr "neužtenka sieros"
 
 #: script/localization.js:52
 msgid "baited trap"
-msgstr "上饵陷阱"
+msgstr "spąstai"
 
 #: script/localization.js:53
 msgid "not enough scales"
-msgstr "鳞片不够了"
+msgstr "neužtenka žvynų"
 
 #: script/localization.js:54
 msgid "not enough cloth"
-msgstr "布料不够了"
+msgstr "neužtenka audeklo"
 
 #: script/localization.js:55
 msgid "not enough teeth"
-msgstr "牙齿不够了"
+msgstr "neužtenka dantų"
 
 #: script/localization.js:56
 msgid "not enough leather"
-msgstr "皮革不够了"
+msgstr "neužtenka odos"
 
 #: script/localization.js:57
 msgid "not enough meat"
-msgstr "肉不够了"
+msgstr "neužtenka mėsos"
 
 #: script/localization.js:58
 msgid "the compass points east"
-msgstr "罗盘指向东方"
+msgstr "kompasas rodo į rytus"
 
 #: script/localization.js:59
 msgid "the compass points west"
-msgstr "罗盘指向西方"
+msgstr "kompasas rodo į vakarus"
 
 #: script/localization.js:60
 msgid "the compass points north"
-msgstr "罗盘指向北方"
+msgstr "kompasas rodo į šiaurę"
 
 #: script/localization.js:61
 msgid "the compass points south"
-msgstr "罗盘指向南方"
+msgstr "kompasas rodo į pietus"
 
 #: script/localization.js:62
 msgid "the compass points northeast"
-msgstr "罗盘指向东北"
+msgstr "kompasas rodo į šiaurės rytus"
 
 #: script/localization.js:63
 msgid "the compass points northwest"
-msgstr "罗盘指向西北"
+msgstr "kompasas rodo į šiaurės vakarus"
 
 #: script/localization.js:64
 msgid "the compass points southeast"
-msgstr "罗盘指向东南"
+msgstr "kompasas rodo į pietryčius"
 
 #: script/localization.js:65
 msgid "the compass points southwest"
-msgstr "罗盘指向西南"
+msgstr "kompasas rodo į pietvakarius"
 
 #: script/outside.js:5
 msgid "Outside"
-msgstr "野外"
+msgstr "Lauke"
 
 #: script/outside.js:102
 msgid "scraps of fur"
-msgstr "皮毛碎片"
+msgstr "kailio skiautės"
 
 #: script/outside.js:107
 msgid "bits of meat"
-msgstr "小片肉"
+msgstr "mėsos gabaliukai"
 
 #: script/outside.js:112
 msgid "strange scales"
-msgstr "古怪鳞片"
+msgstr "keisti žvynai"
 
 #: script/outside.js:117
 msgid "scattered teeth"
-msgstr "残缺牙齿"
+msgstr "išmėtyti dantys"
 
 #: script/outside.js:122
 msgid "tattered cloth"
-msgstr "破烂布料"
+msgstr "nudriskęs audeklas"
 
 #: script/outside.js:127
 msgid "a crudely made charm"
-msgstr "做工粗糙的符咒"
+msgstr "grubiai pagamintas talismanas"
 
 #: script/outside.js:143 script/outside.js:562
 msgid "A Silent Forest"
-msgstr "静谧森林"
+msgstr "Tylus Miškas"
 
 #: script/outside.js:169
 msgid "gather wood"
-msgstr "伐木"
+msgstr "rinkti medieną"
 
 #: script/outside.js:188
 msgid "a stranger arrives in the night"
-msgstr "陌生人在夜里抵达"
+msgstr "naktį atvyksta nepažįstamas žmogus"
 
 #: script/outside.js:190
 msgid "a weathered family takes up in one of the huts."
-msgstr "一户饱经风雨的人家住进一栋小屋"
+msgstr "nualinta šeima apsistoja vienoje iš trobelių."
 
 #: script/outside.js:192
 msgid "a small group arrives, all dust and bones."
-msgstr "一群瘦骨嶙峋，风尘仆仆的人抵达了"
+msgstr "prisijungė grupė senolių."
 
 #: script/outside.js:194
 msgid "a convoy lurches in, equal parts worry and hope."
-msgstr "车队历经磨难来到了小镇，怀着和担忧同等的希望"
+msgstr "su nerimu ir viltimi, įsvirduliuoja karavanas."
 
 #: script/outside.js:196
 msgid "the town's booming. word does get around."
-msgstr "镇子繁荣热闹，消息不胫而走"
+msgstr "miestelis klesti, aplink skleisdamas žodį."
 
 #: script/outside.js:452
 msgid "pop "
-msgstr "人口 "
+msgstr "žmonės"
 
 #: script/outside.js:457
 msgid "forest"
-msgstr "树林"
+msgstr "miškas"
 
 #: script/outside.js:460
 msgid "village"
-msgstr "村落"
+msgstr "kaimas"
 
 #: script/outside.js:543
 msgid "check traps"
-msgstr "查看陷阱"
+msgstr "patikrinti spąstus"
 
 #: script/outside.js:564
 msgid "A Lonely Hut"
-msgstr "孤独小屋"
+msgstr "Vieniša Trobelė"
 
 #: script/outside.js:566
 msgid "A Tiny Village"
-msgstr "小型村落"
+msgstr "Mažytis Kaimelis"
 
 #: script/outside.js:568
 msgid "A Modest Village"
-msgstr "中型村落"
+msgstr "Nemenkas Kaimelis"
 
 #: script/outside.js:570
 msgid "A Large Village"
-msgstr "大型村落"
+msgstr "Didelis Kaimas"
 
 #: script/outside.js:572
 msgid "A Raucous Village"
-msgstr "喧嚣小镇"
+msgstr "Gyvas ir Klestintis Kaimas"
 
 #: script/outside.js:584
 msgid "the sky is grey and the wind blows relentlessly"
-msgstr "天色阴沉，风无情地刮着"
+msgstr "dangus apsiniaukęs, vėjas stiprus ir negailestingas"
 
 #: script/outside.js:594
 msgid "dry brush and dead branches litter the forest floor"
-msgstr "林地上散落着枯枝败叶"
+msgstr "miško paklotė nusėta sausais krūmokšniais ir šakomis"
 
 #: script/outside.js:621
 msgid "the traps contain "
-msgstr "陷阱捕获到"
+msgstr "spąstuose yra"
 
 #: script/path.js:29 script/path.js:298
 msgid "A Dusty Path"
-msgstr "漫漫尘途"
+msgstr "Dulkėtas Kelias"
 
 #: script/path.js:37
 msgid "supplies:"
-msgstr "供应:"
+msgstr "ištekliai:"
 
 #: script/path.js:43
 msgid "embark"
-msgstr "出发"
+msgstr "įsikurti"
 
 #: script/path.js:60 script/room.js:1153
 msgid "the compass points "
-msgstr "罗盘指向:"
+msgstr "kompasas rodo į"
 
 #: script/path.js:102
 msgid "perks:"
-msgstr "能力:"
+msgstr "privalumai:"
 
 #: script/path.js:132
 msgid "none"
-msgstr "空"
+msgstr "jokių"
 
 #: script/path.js:142
 msgid "armour"
-msgstr "护甲"
+msgstr "šarvai"
 
 #: script/path.js:153
 msgid "water"
-msgstr "水"
+msgstr "vanduo"
 
 #: script/path.js:229 script/world.js:290
 msgid "free {0}/{1}"
-msgstr "背包剩余空间: {0}/{1}"
+msgstr "laisvi {0}/{1}"
 
 #: script/path.js:253
 msgid "weight"
-msgstr "负重"
+msgstr "svoris"
 
 #: script/path.js:255
 msgid "available"
-msgstr "可用"
+msgstr "prienamas"
 
 #: script/room.js:16
 msgid "trap"
-msgstr "陷阱"
+msgstr "spąstai"
 
 #: script/room.js:19
 msgid ""
 "builder says she can make traps to catch any creatures might still be alive "
 "out there"
-msgstr "建造者说她能够制做陷阱来捕捉那些仍在野外活动的野兽"
+msgstr ""
+"statytoja sako, jog naktį ji renčia spąstus, tikėdamasi pagauti kokį dar "
+"nenudvėsusį padarėlį"
 
 #: script/room.js:20
 msgid "more traps to catch more creatures"
-msgstr "陷阱越多，抓到的猎物就越多"
+msgstr "daugiau spąstų sugauti daugiau gyvūnų"
 
 #: script/room.js:21
 msgid "more traps won't help now"
-msgstr "再增加陷阱已毫无裨益"
+msgstr "šiuo metu daugiau spąstų nepadės"
 
 #: script/room.js:31
 msgid "cart"
-msgstr "货车"
+msgstr "karutis"
 
 #: script/room.js:34
 msgid "builder says she can make a cart for carrying wood"
-msgstr "建造者说她能够制造出货车，用来运载木头"
+msgstr "statytoja sako, kad gali sukonstruoti karutį medienai vežioti"
 
 #: script/room.js:35
 msgid "the rickety cart will carry more wood from the forest"
-msgstr "摇摇晃晃的货车满载从森林运出的木头"
+msgstr "iškleręs karutis padės parveš daugiau medienos iš miško"
 
 #: script/room.js:44
 msgid "hut"
-msgstr "小屋"
+msgstr "trobelė"
 
 #: script/room.js:47
 msgid "builder says there are more wanderers. says they'll work, too."
-msgstr "建造者说这里有许多流浪者，他们也会来工作"
+msgstr ""
+"statytoja teigia, jog aplinkui bastosi daugiau klajūnų. jie noriai imtųsi "
+"darbo."
 
 #: script/room.js:48
 msgid "builder puts up a hut, out in the forest. says word will get around."
-msgstr "建造者在林中建起一栋小屋，她说消息很快就会流传出去"
+msgstr "statytoja miške pastatė trobelę. ji sakė žodis pats pasklis."
 
 #: script/room.js:49
 msgid "no more room for huts."
-msgstr "再没有可以建小屋的空地了"
+msgstr "neužtenka vietos trobelėms."
 
 #: script/room.js:59
 msgid "lodge"
-msgstr "旅馆"
+msgstr "namelis"
 
 #: script/room.js:62
 msgid "villagers could help hunt, given the means"
-msgstr "假如工具齐备，村民也能帮忙狩猎"
+msgstr "kaimiečiai negalėjo pagelbėti medžioklėje"
 
 #: script/room.js:63
 msgid "the hunting lodge stands in the forest, a ways out of town"
-msgstr "供猎人居住的旅馆已经矗立在林中，距离村子不远"
+msgstr "medžiotojų namelis stovėjo miške, atokiau nuo miesto"
 
 #: script/room.js:74
 msgid "trading post"
-msgstr "贸易站"
+msgstr "mainų punktas"
 
 #: script/room.js:77
 msgid "a trading post would make commerce easier"
-msgstr "贸易站让贸易变得更加便捷"
+msgstr "mainų punktai paskatintų prekybą"
 
 #: script/room.js:78
 msgid ""
 "now the nomads have a place to set up shop, they might stick around a while"
-msgstr "现在游牧部落有地方安营扎寨设立商铺了，他们也许会多逗留一段时间"
+msgstr "dabar klajokliai gali čia ilgiau apsistoti, įkurti savo krautuvėles"
 
 #: script/room.js:88
 msgid "tannery"
-msgstr "制革屋"
+msgstr "káilinė"
 
 #: script/room.js:91
 msgid "builder says leather could be useful. says the villagers could make it."
-msgstr "建造者说皮革会很有用，而且村民也会做"
+msgstr ""
+"statytoja norėtų patalpos odai ir kailiui apdirbti. kaimiečiai galėtų ją "
+"įrengti."
 
 #: script/room.js:92
 msgid "tannery goes up quick, on the edge of the village"
-msgstr "制革屋很快在村子一角建立了起来"
+msgstr "kaimo pakraštyje išdygsta káilinė"
 
 #: script/room.js:102
 msgid "smokehouse"
-msgstr "熏肉房"
+msgstr "rūkykla"
 
 #: script/room.js:105
 msgid ""
 "should cure the meat, or it'll spoil. builder says she can fix something up."
-msgstr "应该把肉熏一下，否则会腐坏掉.建造者说她能帮忙搞定这个"
+msgstr ""
+"turėtų išrūkyti mėsą, nes ji suges. statytoja sako, jog gali ką nors suręsti."
 
 #: script/room.js:106
 msgid "builder finishes the smokehouse. she looks hungry."
-msgstr "建造者造好了熏肉房，她看起来饥肠辘辘"
+msgstr "statytoja pabaigė rūkyklą, atrodė išbadėjusi"
 
 #: script/room.js:116
 msgid "workshop"
-msgstr "工坊"
+msgstr "dirbtuvė"
 
 #: script/room.js:119
 msgid "builder says she could make finer things, if she had the tools"
-msgstr "建造者说如果她有工具的话能做出一些更精良的东西"
+msgstr ""
+"statytoja sako, jog su tinkamais įrankiais, galėtų pagaminti kokybiškesnius "
+"daiktus"
 
 #: script/room.js:120
 msgid "workshop's finally ready. builder's excited to get to it"
-msgstr "工坊终于建好了.建造者激动不已"
+msgstr ""
+"dirbtuvė pagaliau baigta. statytoja nesulaukia kada galės pradėti rimtai "
+"darbuotis"
 
 #: script/room.js:131
 msgid "steelworks"
-msgstr "炼钢坊"
+msgstr "plieno liejykla"
 
 #: script/room.js:134
 msgid "builder says the villagers could make steel, given the tools"
-msgstr "建造者说给村民工具的话他们就能帮忙炼钢"
+msgstr "statytoja sako, kad reikia liejyklos kaimiečiams plienui gaminti"
 
 #: script/room.js:135
 msgid "a haze falls over the village as the steelworks fires up"
-msgstr "炼钢坊开工后，一缕黑烟飘向村庄上空"
+msgstr "liejykla užkurta! ji lengvai pridūmino kaimą"
 
 #: script/room.js:146
 msgid "armoury"
-msgstr "军械坊"
+msgstr "ginklinė"
 
 #: script/room.js:149
 msgid "builder says it'd be useful to have a steady source of bullets"
-msgstr "建造者说拥有稳定的弹药来源很有必要"
+msgstr "statytoja mano, jog reikėtų turėti pastovų šaudmenų šaltinį"
 
 #: script/room.js:150
 msgid "armoury's done, welcoming back the weapons of the past."
-msgstr "军械坊建好了，欢迎使用这些过时的武器"
+msgstr "ginklinė užbaigta, ji puikiai tiks senesnio modelio ginklams"
 
 #: script/room.js:164
 msgid "a torch to keep the dark away"
-msgstr "驱散黑暗的火把"
+msgstr "deglas nubaidyti tamsai"
 
 #: script/room.js:173
 msgid "waterskin"
-msgstr "水壶"
+msgstr "gertuvė"
 
 #: script/room.js:177
 msgid "this waterskin'll hold a bit of water, at least"
-msgstr "起码能装那么点儿水"
+msgstr "šioje gertuvėje telpa bent truputis vandens"
 
 #: script/room.js:185
 msgid "cask"
-msgstr "水桶"
+msgstr "statinaitė"
 
 #: script/room.js:189
 msgid "the cask holds enough water for longer expeditions"
-msgstr "为更长的探索之旅提供充足的水源"
+msgstr "šioje statinaitėje yra užtektinai vandens ilgesnėms kelionėms"
 
 #: script/room.js:198
 msgid "water tank"
-msgstr "水罐"
+msgstr "vandens rezervuaras"
 
 #: script/room.js:202
 msgid "never go thirsty again"
-msgstr "再也不担心口渴"
+msgstr "pamiršk troškulį ilgam ilgam..."
 
 #: script/room.js:211
 msgid "bone spear"
-msgstr "骨枪"
+msgstr "kaulinė ietis"
 
 #: script/room.js:214
 msgid "this spear's not elegant, but it's pretty good at stabbing"
-msgstr "这柄标枪不怎么精致，但用来戳刺手感不错"
+msgstr "nors ši ietis gan paprasta, ji puikiai tinka smeigimui"
 
 #: script/room.js:223 script/world.js:285
 msgid "rucksack"
-msgstr "双肩包"
+msgstr "kuprinė"
 
 #: script/room.js:227
 msgid "carrying more means longer expeditions to the wilds"
-msgstr "荒野旅行时携带更多物资"
+msgstr "kuo daugiau paneši, tuo ilgiau galėsi keliauti "
 
 #: script/room.js:235
 msgid "wagon"
-msgstr "篷车"
+msgstr "vežimas"
 
 #: script/room.js:239
 msgid "the wagon can carry a lot of supplies"
-msgstr "篷车能够携带许多物资"
+msgstr "vežimas gali sutalpinti daug išteklių"
 
 #: script/room.js:248
 msgid "convoy"
-msgstr "车队"
+msgstr "karavanas"
 
 #: script/room.js:252
 msgid "the convoy can haul mostly everything"
-msgstr "车队几乎能把所有东西都装下"
+msgstr "karavanas su savimi gali pasiimti kone viską"
 
 #: script/room.js:262
 msgid "l armour"
-msgstr "皮甲"
+msgstr "odiniai šarvai"
 
 #: script/room.js:265
 msgid "leather's not strong. better than rags, though."
-msgstr "皮革不算结实，但总比披块破布强吧"
+msgstr "oda nepatvari, tačiau geresnė už tuos skarmalus."
 
 #: script/room.js:274
 msgid "i armour"
-msgstr "铁甲"
+msgstr "geležiniai šarvai"
 
 #: script/room.js:277
 msgid "iron's stronger than leather"
-msgstr "铁可比皮结实"
+msgstr "geležis stipresnė už odą"
 
 #: script/room.js:286
 msgid "s armour"
-msgstr "钢甲"
+msgstr "plieniniai šarvaii"
 
 #: script/room.js:289
 msgid "steel's stronger than iron"
-msgstr "钢的总比铁的强"
+msgstr "plienas stipresnis už geležį"
 
 #: script/room.js:298
 msgid "iron sword"
-msgstr "铁剑"
+msgstr "geležinis kardas"
 
 #: script/room.js:301
 msgid "sword is sharp. good protection out in the wilds."
-msgstr "剑很锋利，能够在野外提供不错的防护"
+msgstr "kardas aštrus, suteikia tinkamą apsaugą ."
 
 #: script/room.js:311
 msgid "steel sword"
-msgstr "钢剑"
+msgstr "plieninis kardas"
 
 #: script/room.js:314
 msgid "the steel is strong, and the blade true."
-msgstr "好钢出利刃"
+msgstr "plieninis kardas yra galingas, jo ašmenys - negailestingi."
 
 #: script/room.js:324
 msgid "rifle"
-msgstr "步枪"
+msgstr "šautuvas"
 
 #: script/room.js:326
 msgid "black powder and bullets, like the old days."
-msgstr "黑火药和子弹，就像过去那样"
+msgstr "parakas ir kulkos. visai kaip senais gerais laikais."
 
 #: script/room.js:458
 msgid "Room"
-msgstr "房间"
+msgstr "Kambarys"
 
 #: script/room.js:485 script/room.js:604
 msgid "A Dark Room"
-msgstr "小黑屋"
+msgstr "Tamsus Kambarys"
 
 #: script/room.js:498
 msgid "light fire"
-msgstr "生火"
+msgstr "užkurti ugnį"
 
 #: script/room.js:508
 msgid "stoke fire"
-msgstr "添柴"
+msgstr "pakurstyti ugnį"
 
 #: script/room.js:545 script/room.js:555 script/room.js:703 script/room.js:707
 msgid "the room is {0}"
-msgstr "房间{0}"
+msgstr "kambaryje {0}"
 
 #: script/room.js:546 script/room.js:554 script/room.js:672
 msgid "the fire is {0}"
-msgstr "火堆{0}"
+msgstr "ugnis {0}"
 
 #: script/room.js:565
 msgid ""
 "the stranger is standing by the fire. she says she can help. says she builds "
 "things."
-msgstr "那名陌生人出现在火堆前.她说她可以帮忙建些东西"
+msgstr ""
+"nepažįstamoji stovi prie ugnies. ji sako galinti padėti. ji moka statyti, "
+"konstruoti. "
 
 #: script/room.js:580
 msgid "freezing"
-msgstr "寒冷刺骨"
+msgstr "stingdančiai šalta"
 
 #: script/room.js:581
 msgid "cold"
-msgstr "很冷"
+msgstr "šalta"
 
 #: script/room.js:582
 msgid "mild"
-msgstr "很宜人"
+msgstr "gan šilta"
 
 #: script/room.js:583
 msgid "warm"
-msgstr "暖和"
+msgstr "šilta"
 
 #: script/room.js:584
 msgid "hot"
-msgstr "很热"
+msgstr "karšta"
 
 #: script/room.js:596
 msgid "dead"
-msgstr "熄灭了"
+msgstr "užgesusi"
 
 #: script/room.js:597
 msgid "smoldering"
-msgstr "开始冒烟"
+msgstr "rusena"
 
 #: script/room.js:598
 msgid "flickering"
-msgstr "冒出火苗"
+msgstr "vis labiau įsikuria"
 
 #: script/room.js:599
 msgid "burning"
-msgstr "燃烧着"
+msgstr "dega, plėvesuoja"
 
 #: script/room.js:600
 msgid "roaring"
-msgstr "熊熊燃烧"
+msgstr "audringa, galinga"
 
 #: script/room.js:604
 msgid "A Firelit Room"
-msgstr "生火间"
+msgstr "Ugnies Apšviestas Kambarys"
 
 #: script/room.js:642
 msgid "not enough wood to get the fire going"
-msgstr "生火的木头不够了"
+msgstr "laužui neužtenka malkų"
 
 #: script/room.js:655
 msgid "the wood has run out"
-msgstr "木头用光了"
+msgstr "baigėsi malkos"
 
 #: script/room.js:675
 msgid "the light from the fire spills from the windows, out into the dark"
-msgstr "火光映出窗外，投入黑暗之中"
+msgstr ""
+"ugnis šėlsta, jos šviesa pro langus veržiasi į pasaulį, tamsų ir nesvetingą"
 
 #: script/room.js:688
 msgid "builder stokes the fire"
-msgstr "建造者添了柴火"
+msgstr "statytoja pakursto ugnį"
 
 #: script/room.js:718
 msgid "the wind howls outside"
-msgstr "屋外寒风呼啸"
+msgstr "lauke girdisi vėjo kaukimas"
 
 #: script/room.js:719
 msgid "the wood is running out"
-msgstr "木头就快烧完了"
+msgstr "medienos atsargos senka"
 
 #: script/room.js:726
 msgid "a ragged stranger stumbles through the door and collapses in the corner"
-msgstr "衣衫褴褛的陌生人步履蹒跚地步入门来，瘫倒在角落里"
+msgstr "nuskurus moteris įklupčioja per duris ir susmunka kampe"
 
 #: script/room.js:734
 msgid ""
 "the stranger shivers, and mumbles quietly. her words are unintelligible."
-msgstr "陌生人瑟瑟发抖，呢喃不已，听不清在说些什么"
+msgstr "drebanti nepažįstamoji kažką suburba po nosimi."
 
 #: script/room.js:737
 msgid "the stranger in the corner stops shivering. her breathing calms."
-msgstr "角落里的陌生人不再颤抖了，她的呼吸平静了下来"
+msgstr "moteris kampelyje baigia tirtėti, jos kvėpavimas nurimsta."
 
 #: script/room.js:760
 msgid "stores"
-msgstr "库存"
+msgstr "inventorius"
 
 #: script/room.js:779
 msgid "weapons"
-msgstr "武器"
+msgstr "ginklai"
 
 #: script/room.js:914
 msgid "total"
-msgstr "总计"
+msgstr "iš viso"
 
 #: script/room.js:935 script/room.js:979
 msgid "not enough "
-msgstr "不够了"
+msgstr "nepakankamai"
 
 #: script/room.js:951
 msgid "builder just shivers"
-msgstr "建造者还在瑟瑟发抖"
+msgstr "statytoja tik dreba"
 
 #: script/room.js:1054
 msgid "build:"
-msgstr "建筑物:"
+msgstr "statyti:"
 
 #: script/room.js:1061
 msgid "craft:"
-msgstr "制造:"
+msgstr "gaminti:"
 
 #: script/room.js:1068
 msgid "buy:"
-msgstr "购买:"
+msgstr "pirkti:"
 
 #: script/ship.js:11
 msgid "Ship"
-msgstr "飞船"
+msgstr "Laivas"
 
 #: script/ship.js:27 script/ship.js:100
 msgid "An Old Starship"
-msgstr "破旧星舰"
+msgstr "Senas Erdvėlaivais"
 
 #: script/ship.js:38
 msgid "hull:"
-msgstr "外壳:"
+msgstr "korpusas:"
 
 #: script/ship.js:44
 msgid "engine:"
-msgstr "引擎:"
+msgstr "variklis:"
 
 #: script/ship.js:51
 msgid "reinforce hull"
-msgstr "加固船身"
+msgstr "sutvirtinti korpusą"
 
 #: script/ship.js:60
 msgid "upgrade engine"
-msgstr "升级引擎"
+msgstr "pagerinti variklį"
 
 #: script/ship.js:69 script/ship.js:142
 msgid "lift off"
-msgstr "点火起飞"
+msgstr "pakilti"
 
 #: script/ship.js:91
 msgid ""
 "somewhere above the debris cloud, the wanderer fleet hovers. been on this "
 "rock too long."
-msgstr "在碎片云上方的某处，流浪者舰队徘徊。 在这个岩石上太久了。"
+msgstr ""
+"kažkur, virš nuolaužų debesų, sklando klajotojų grupuotė. per ilgai "
+"užsibuvom ant šito akmens."
 
 #: script/ship.js:106 script/ship.js:119
 msgid "not enough alien alloy"
-msgstr "外星合金不足"
+msgstr "neužtenka ateivių lydinio"
 
 #: script/ship.js:134
 msgid "Ready to Leave?"
-msgstr "准备好要离开了吗?"
+msgstr "Pasirengę Išvykti?"
 
 #: script/ship.js:138
 msgid "time to get out of this place. won't be coming back."
-msgstr "是时候离开这里了.不能回头."
+msgstr "laikas palikti šitą vieta. nebegrįšiu."
 
 #: script/ship.js:150
 msgid "linger"
-msgstr "裹足徘徊"
+msgstr "delsti"
 
 #: script/space.js:42
 msgid "hull: "
-msgstr "船身:"
+msgstr "korpusas:"
 
 #: script/space.js:76
 msgid "Troposphere"
-msgstr "对流层"
+msgstr "Troposfera"
 
 #: script/space.js:78
 msgid "Stratosphere"
-msgstr "平流层"
+msgstr "Stratosfera"
 
 #: script/space.js:80
 msgid "Mesosphere"
-msgstr "中气层"
+msgstr "Mezosfera"
 
 #: script/space.js:82
 msgid "Thermosphere"
-msgstr "增温层"
+msgstr "Termosfera"
 
 #: script/space.js:84
 msgid "Exosphere"
-msgstr "外逸层"
+msgstr "Egzosfera"
 
 #: script/space.js:86
 msgid "Space"
-msgstr "太空"
+msgstr "Kosmosas"
 
 #: script/space.js:424
 msgid "score for this game: {0}"
-msgstr "游戏得分: {0}"
+msgstr "taškų surinkta šiame žaidime:"
 
 #: script/space.js:431
 msgid "total score: {0}"
-msgstr "总分: {0}"
+msgstr "iš viso taškų:"
 
 #: script/world.js:46
 msgid "punch"
-msgstr "挥拳"
+msgstr "trenkti"
 
 #: script/world.js:52
 msgid "stab"
-msgstr "戳刺"
+msgstr "padurti"
 
 #: script/world.js:58
 msgid "swing"
-msgstr "挥斩"
+msgstr "užsimoti"
 
 #: script/world.js:64
 msgid "slash"
-msgstr "劈砍"
+msgstr "prapjauti"
 
 #: script/world.js:70
 msgid "thrust"
-msgstr "扎刺"
+msgstr "durti"
 
 #: script/world.js:76
 msgid "shoot"
-msgstr "开火"
+msgstr "šauti"
 
 #: script/world.js:83
 msgid "blast"
-msgstr "引爆"
+msgstr "sprogdinti"
 
 #: script/world.js:90
 msgid "lob"
-msgstr "投掷"
+msgstr "sviesti"
 
 #: script/world.js:97
 msgid "tangle"
-msgstr "牵绊"
+msgstr "supančioti"
 
 #: script/world.js:119
 msgid "An&nbsp;Outpost"
-msgstr "前哨"
+msgstr "Stebėjimo&nbsp;Postas"
 
 #: script/world.js:120
 msgid "Iron&nbsp;Mine"
-msgstr "铁矿"
+msgstr "Geležies&nbsp;Kasykla"
 
 #: script/world.js:121
 msgid "Coal&nbsp;Mine"
-msgstr "煤矿"
+msgstr "Anglies&nbsp;Kasykla"
 
 #: script/world.js:122
 msgid "Sulphur&nbsp;Mine"
-msgstr "硫磺矿"
+msgstr "Sieros&nbsp;Kasykla"
 
 #: script/world.js:123
 msgid "An&nbsp;Old&nbsp;House"
-msgstr "废弃小屋"
+msgstr "Senas&nbsp;Namas"
 
 #: script/world.js:124
 msgid "A&nbsp;Damp&nbsp;Cave"
-msgstr "洞穴"
+msgstr "Drėgna&nbsp;Ola"
 
 #: script/world.js:125
 msgid "An&nbsp;Abandoned&nbsp;Town"
-msgstr "小镇"
+msgstr "Apleistas&nbsp;Miestelis"
 
 #: script/world.js:126
 msgid "A&nbsp;Ruined&nbsp;City"
-msgstr "城市"
+msgstr "Apgriuvęs&nbsp;Miestas"
 
 #: script/world.js:127
 msgid "A&nbsp;Crashed&nbsp;Starship"
-msgstr "坠毁星舰"
+msgstr "Sudužęs&nbsp;Erdvėlaivis"
 
 #: script/world.js:128
 msgid "A&nbsp;Borehole"
-msgstr "巨坑"
+msgstr "Gręžinys"
 
 #: script/world.js:129
 msgid "A&nbsp;Battlefield"
-msgstr "战场"
+msgstr "Mūšio&nbsp;laukas"
 
 #: script/world.js:130
 msgid "A&nbsp;Murky&nbsp;Swamp"
-msgstr "沼泽"
+msgstr "Drumzli&nbsp;Pelkė"
 
 #: script/world.js:134
 msgid "A&nbsp;Destroyed&nbsp;Village"
-msgstr "村庄"
+msgstr "Suniokotas&nbsp;Kaimas"
 
 #: script/world.js:256
 msgid "water:{0}"
-msgstr "水:{0}"
+msgstr "vanduo:{0}"
 
 #: script/world.js:283
 msgid "pockets"
-msgstr "背包"
+msgstr "kišenės"
 
 #: script/world.js:307
 msgid "hp: {0}/{1}"
-msgstr "生命: {0}/{1}"
+msgstr "hp: {0}/{1}"
 
 #: script/world.js:314
 msgid "{0}:{1}"
@@ -1394,551 +1405,560 @@ msgstr "{0}:{1}"
 
 #: script/world.js:349
 msgid "dangerous to be this far from the village without proper protection"
-msgstr "没有妥善防护离开村子,远行很危险"
+msgstr "būti taip toli nuo kaimo be reikiamos apsaugos yra pavojinga"
 
 #: script/world.js:351
 msgid "safer here"
-msgstr "这里可算安全了"
+msgstr "čia saugiau"
 
 #: script/world.js:451
 msgid "the meat has run out"
-msgstr "肉已经吃完了"
+msgstr "baigėsi mėsa"
 
 #: script/world.js:456
 msgid "starvation sets in"
-msgstr "饥饿袭来"
+msgstr "atslenka badas"
 
 #: script/world.js:481
 msgid "there is no more water"
-msgstr "水已耗尽"
+msgstr "nebėra vandens"
 
 #: script/world.js:485
 msgid "the thirst becomes unbearable"
-msgstr "口渴难耐"
+msgstr "troškulys nebepakeliamas"
 
 #: script/world.js:558
 msgid "the trees yield to dry grass. the yellowed brush rustles in the wind."
-msgstr "树木歪倒在干草丛中，枯黄的灌木在风中沙沙作响"
+msgstr ""
+"medžiai pasiduoda sausiems žolėms kukštams. pageltę krūmokšniai šnara vėjyje."
 
 #: script/world.js:561
 msgid ""
 "the trees are gone. parched earth and blowing dust are poor replacements."
-msgstr "树木都消失了，唯留下干裂的大地和飞扬的尘土"
+msgstr "medžių nebėra. teliko perdžiūvusi žemė ir dulkės... daug dulkių."
 
 #: script/world.js:568
 msgid ""
 "trees loom on the horizon. grasses gradually yield to a forest floor of dry "
 "branches and fallen leaves."
-msgstr "地平线上隐约瞧见树林.草地渐渐稀疏，替代以铺着枯枝败叶的森林"
+msgstr ""
+"horizonte dūksoja medžiai. pamažu žolę paveržė sausa miško paklotė -  sausa "
+"žolė, pageltę negražūs krūmynai"
 
 #: script/world.js:571
 msgid "the grasses thin. soon, only dust remains."
-msgstr "草地很快稀疏了起来，唯留下漫天扬尘"
+msgstr "žolė merdi. tebeliks dulkės."
 
 #: script/world.js:578
 msgid "the barrens break at a sea of dying grass, swaying in the arid breeze."
-msgstr "荒草如海，在燥热的风中摇曳着，中间现出了一片荒地"
+msgstr ""
+"dykvietes seka merdinčios, sausos žolės jūra, liūdnai liūliuojanti "
+"bergždžiame vėjyje."
 
 #: script/world.js:581
 msgid ""
 "a wall of gnarled trees rises from the dust. their branches twist into a "
 "skeletal canopy overhead."
-msgstr "尘土中长出了结瘤的树墙，枝干在头顶缠绕成骨骼般的穹顶"
+msgstr ""
+"iš po dulkių dūkso nedaili susimazgiusių medžių siena. jų šakos, lyg "
+"griaučiai, susipynę į aukštą ir nykų skliautą."
 
 #: script/world.js:817
 msgid "Wanderer"
-msgstr "漫游者"
+msgstr "Klajūnas"
 
 #: script/world.js:822
 msgid "The&nbsp;Village"
-msgstr "村庄"
+msgstr "Kaimas"
 
 #: script/world.js:851
 msgid "the world fades"
-msgstr "眼前的世界烟消云散"
+msgstr "pasaulis blunka"
 
 #: script/world.js:952 script/events/setpieces.js:2961
 msgid "water replenished"
-msgstr "水补充好了"
+msgstr "vanduo papildytas"
 
 #: script/world.js:982
 msgid "A Barren World"
-msgstr "荒芜世界"
+msgstr "Skurdus Pasaulis"
 
 #: script/events/encounters.js:7
 msgid "A Snarling Beast"
-msgstr "咆哮的野兽"
+msgstr "Rūstusis Žvėris"
 
 #: script/events/encounters.js:15
 msgid "snarling beast"
-msgstr "咆哮的野兽"
+msgstr "rūstus žvėris"
 
 #: script/events/encounters.js:16
 msgid "the snarling beast is dead"
-msgstr "野兽倒下了"
+msgstr "baisusis žvėris nugalėtas"
 
 #: script/events/encounters.js:39
 msgid "a snarling beast leaps out of the underbrush"
-msgstr "一只野兽从灌木丛里蹿了出来"
+msgstr "baugus žvėris iššoko iš po krūmo"
 
 #: script/events/encounters.js:44
 msgid "A Gaunt Man"
-msgstr "憔悴的男子"
+msgstr "Paliegęs žmogus"
 
 #: script/events/encounters.js:52
 msgid "gaunt man"
-msgstr "憔悴的男子"
+msgstr "paliegęs žmogus"
 
 #: script/events/encounters.js:53
 msgid "the gaunt man is dead"
-msgstr "憔悴的男子倒下了"
+msgstr "paliegėlis negyvas"
 
 #: script/events/encounters.js:76
 msgid "a gaunt man approaches, a crazed look in his eye"
-msgstr "一名憔悴的男子靠了过来，眼底流露出疯狂"
+msgstr "prie tavęs prieina sulysęs ir išvargęs žmogus, jis panašus į pamišėlį"
 
 #: script/events/encounters.js:81
 msgid "A Strange Bird"
-msgstr "怪鸟"
+msgstr "Keistas Paukštis"
 
 #: script/events/encounters.js:89
 msgid "strange bird"
-msgstr "怪鸟"
+msgstr "keistas paukštis"
 
 #: script/events/encounters.js:90
 msgid "the strange bird is dead"
-msgstr "怪鸟倒下了"
+msgstr "keistas paukštis negyvas"
 
 #: script/events/encounters.js:113
 msgid "a strange looking bird speeds across the plains"
-msgstr "一只模样古怪的鸟快速掠过平原"
+msgstr "neįprastos išvaizdos paukštis laksto po laukus"
 
 #: script/events/encounters.js:119
 msgid "A Shivering Man"
-msgstr "颤抖的男子"
+msgstr "Drebantis Žmogus"
 
 #: script/events/encounters.js:127
 msgid "shivering man"
-msgstr "颤抖的男子"
+msgstr "drebantis žmogus"
 
 #: script/events/encounters.js:128
 msgid "the shivering man is dead"
-msgstr "颤抖的男子倒下了"
+msgstr "drebantis žmogus negyvas"
 
 #: script/events/encounters.js:156
 msgid "a shivering man approaches and attacks with surprising strength"
-msgstr "一名颤抖的男子靠了过来，以令人吃惊的怪力发起袭击"
+msgstr ""
+"išgirsti brazdėjimą. tave užsipuola drebantis žmogus, jis stebėtinai stiprus."
 
 #: script/events/encounters.js:161
 msgid "A Man-Eater"
-msgstr "食人怪"
+msgstr "Žmogėdra"
 
 #: script/events/encounters.js:169
 msgid "man-eater"
-msgstr "食人怪"
+msgstr "žmogėdra"
 
 #: script/events/encounters.js:170
 msgid "the man-eater is dead"
-msgstr "食人怪倒下了"
+msgstr "žmogėdra negyvas"
 
 #: script/events/encounters.js:193
 msgid "a large creature attacks, claws freshly bloodied"
-msgstr "一只巨大的生物袭来，爪子上鲜血淋漓"
+msgstr "tave užpuola didžiulis padaras. jo nagai kruvini."
 
 #: script/events/encounters.js:198
 msgid "A Scavenger"
-msgstr "拾荒者"
+msgstr "Banditas"
 
 #: script/events/encounters.js:206
 msgid "scavenger"
-msgstr "拾荒者"
+msgstr "banditas"
 
 #: script/events/encounters.js:207
 msgid "the scavenger is dead"
-msgstr "拾荒者被消灭了"
+msgstr "banditas negyvas"
 
 #: script/events/encounters.js:235
 msgid "a scavenger draws close, hoping for an easy score"
-msgstr "一名拾荒者贴了过来，想要发起偷袭"
+msgstr "ieškodamas lengvo grobio prie tavęs prisliūkina banditas"
 
 #: script/events/encounters.js:240
 msgid "A Huge Lizard"
-msgstr "巨蜥"
+msgstr "Didžiulis Driežas"
 
 #: script/events/encounters.js:248
 msgid "lizard"
-msgstr "巨蜥"
+msgstr "driežas"
 
 #: script/events/encounters.js:249
 msgid "the lizard is dead"
-msgstr "巨蜥倒下了"
+msgstr "driežas negyvas"
 
 #: script/events/encounters.js:272
 msgid "the grass thrashes wildly as a huge lizard pushes through"
-msgstr "草丛疯摇，一只巨蜥扑了出来"
+msgstr ""
+"nublokšdamas žolę į visas puses, prie tavęs prisiartina didžiulis driežas"
 
 #: script/events/encounters.js:278
 msgid "A Feral Terror"
-msgstr "凶怪"
+msgstr "Siaubūnas"
 
 #: script/events/encounters.js:286
 msgid "feral terror"
-msgstr "凶怪"
+msgstr "siaubūnas"
 
 #: script/events/encounters.js:287
 msgid "the feral terror is dead"
-msgstr "凶怪倒下了"
+msgstr "siaubūnas negyvas"
 
 #: script/events/encounters.js:310
 msgid "a beast, wilder than imagining, erupts out of the foliage"
-msgstr "一只凶怪超乎想象的狂野，从林中扑将出来"
+msgstr "nepasakomai siaubingas žvėris išsiveržia iš lapų priedangos"
 
 #: script/events/encounters.js:315
 msgid "A Soldier"
-msgstr "士兵"
+msgstr "Kareivis"
 
 #: script/events/encounters.js:323
 msgid "soldier"
-msgstr "士兵"
+msgstr "kareivis"
 
 #: script/events/encounters.js:324
 msgid "the soldier is dead"
-msgstr "士兵倒下了"
+msgstr "kareivis negyvas"
 
 #: script/events/encounters.js:353
 msgid "a soldier opens fire from across the desert"
-msgstr "士兵从沙漠那边开火"
+msgstr "dykumos apsuptyje, pamatai kareivį. jis pradeda šaudyti."
 
 #: script/events/encounters.js:358
 msgid "A Sniper"
-msgstr "狙击手"
+msgstr "Snaiperis"
 
 #: script/events/encounters.js:366
 msgid "sniper"
-msgstr "狙击手"
+msgstr "snaiperis"
 
 #: script/events/encounters.js:367
 msgid "the sniper is dead"
-msgstr "狙击手被灭"
+msgstr "snaiperis negyvas"
 
 #: script/events/encounters.js:396
 msgid "a shot rings out, from somewhere in the long grass"
-msgstr "深草丛的某处射出了一发子弹"
+msgstr "staiga, paleistas iš po aukštos žolės, nuaidi šūvis"
 
 #: script/events/global.js:6
 msgid "The Thief"
-msgstr "小偷"
+msgstr "Vagis"
 
 #: script/events/global.js:13
 msgid "the villagers haul a filthy man out of the store room."
-msgstr "村民们从仓库里拽出来一个脏兮兮的家伙"
+msgstr "kaimiečiai iš sandėlio išvijo purviną vyrą"
 
 #: script/events/global.js:14
 msgid "say his folk have been skimming the supplies."
-msgstr "据说他的同伙们早已经顺走许多货物"
+msgstr "sako, kad jo bendrai knisosi po atsargas."
 
 #: script/events/global.js:15
 msgid "say he should be strung up as an example."
-msgstr "他们说应该绞死他以儆效尤"
+msgstr "sako, kad jį reikia pakarti, kaip pavyzdį kitiems"
 
 #: script/events/global.js:17
 msgid "a thief is caught"
-msgstr "抓到一名小偷"
+msgstr "vagis sugautas"
 
 #: script/events/global.js:21
 msgid "hang him"
-msgstr "绞死他"
+msgstr "jį pakarti"
 
 #: script/events/global.js:25
 msgid "spare him"
-msgstr "释放他"
+msgstr "jo pagailėti"
 
 #: script/events/global.js:32
 msgid "the villagers hang the thief high in front of the store room."
-msgstr "村民们将盗贼绞死，高挂在仓库门前"
+msgstr "kaimiečiai prie sandėlio pakorė vagį"
 
 #: script/events/global.js:33
 msgid ""
 "the point is made. in the next few days, the missing supplies are returned."
-msgstr "此举卓有成效.数日后,遗失的物资都被还了回来"
+msgstr ""
+"tai pasiteisino! per kelias dienas dingusios atsargos buvo sugrąžintos."
 
 #: script/events/global.js:49
 msgid "the man says he's grateful. says he won't come around any more."
-msgstr "这家伙感激涕零,说他再也不会来行窃了"
+msgstr "vyras yra be galo dėkingas, sakė, kad išeis ir nebegrįš."
 
 #: script/events/global.js:50
 msgid "shares what he knows about sneaking before he goes."
-msgstr "在离开前他分享了有关潜行的心得"
+msgstr "prieš išeidamas, pasidalino savo sėlinimo žiniomis. "
 
 #: script/events/outside.js:6
 msgid "A Ruined Trap"
-msgstr "损毁的陷阱"
+msgstr "Sugadinti Spąstai"
 
 #: script/events/outside.js:13
 msgid "some of the traps have been torn apart."
-msgstr "一些陷阱损毁了"
+msgstr "kai kurie spąstai buvo sumaitoti."
 
 #: script/events/outside.js:14
 msgid "large prints lead away, into the forest."
-msgstr "巨大的足印延伸至森林"
+msgstr "dideli pėdsakai veda link miško."
 
 #: script/events/outside.js:22
 msgid "some traps have been destroyed"
-msgstr "一些陷阱损毁了"
+msgstr "kai kurie spąstai visiškai sudarkyti"
 
 #: script/events/outside.js:26
 msgid "track them"
-msgstr "追踪"
+msgstr "sekti pėdsakus"
 
 #: script/events/outside.js:30 script/events/room.js:71
 #: script/events/room.js:122
 msgid "ignore them"
-msgstr "忽略"
+msgstr "juos ignoruoti"
 
 #: script/events/outside.js:37
 msgid "the tracks disappear after just a few minutes."
-msgstr "数分钟后足印消失了"
+msgstr "pėdsakai po kelių minučių dingo."
 
 #: script/events/outside.js:38
 msgid "the forest is silent."
-msgstr "森林归于静谧"
+msgstr "miške tylu."
 
 #: script/events/outside.js:40
 msgid "nothing was found"
-msgstr "找不到任何物品"
+msgstr "nieko nerasta"
 
 #: script/events/outside.js:43 script/events/outside.js:61
 #: script/events/outside.js:126 script/events/outside.js:144
 #: script/events/outside.js:197 script/events/outside.js:215
 #: script/events/outside.js:248 script/events/outside.js:282
 msgid "go home"
-msgstr "返回"
+msgstr "eiti namo"
 
 #: script/events/outside.js:50
 msgid "not far from the village lies a large beast, its fur matted with blood."
-msgstr "村外不远处躺着一只巨兽，它的毛皮上染满了鲜血"
+msgstr "netoli nuo kaimo guli didžiulis žvėris, jo kailis suteptas krauju."
 
 #: script/events/outside.js:51
 msgid "it puts up little resistance before the knife."
-msgstr "它无力挣扎任人宰割"
+msgstr "pamatęs peilį bando priešintis, bet veltui."
 
 #: script/events/outside.js:53
 msgid "there was a beast. it's dead now"
-msgstr "野兽死了"
+msgstr "RIP žvėris"
 
 #: script/events/outside.js:69
 msgid "Fire"
-msgstr "着火了"
+msgstr "Ugnis"
 
 #: script/events/outside.js:76
 msgid "a fire rampages through one of the huts, destroying it."
-msgstr "你的小屋要起火了,快扑灭它"
+msgstr "ugnis nusiaubė vieną namuką"
 
 #: script/events/outside.js:77
 msgid "all residents in the hut perished in the fire."
-msgstr "不幸的是,屋内的所有人都死于火灾中"
+msgstr "visi namo gyventojai žuvo liepsnose."
 
 #: script/events/outside.js:79
 msgid "a fire has started"
-msgstr "火灾已经开始"
+msgstr "užsiplieskė ugnis."
 
 #: script/events/outside.js:86
 msgid "mourn"
-msgstr "护甲"
+msgstr "gedėti"
 
 #: script/events/outside.js:87
 msgid "some villagers have died"
-msgstr "有一些村民死掉了"
+msgstr "mirė dalis kaimiečių"
 
 #: script/events/outside.js:95
 msgid "Sickness"
-msgstr "瘟疫"
+msgstr "Liga"
 
 #: script/events/outside.js:102
 msgid "a sickness is spreading through the village."
-msgstr "瘟疫在村子中蔓延"
+msgstr "kaime plinta ligos."
 
 #: script/events/outside.js:103 script/events/outside.js:161
 msgid "medicine is needed immediately."
-msgstr "亟需药剂"
+msgstr "skubiai reikia vaistų."
 
 #: script/events/outside.js:105
 msgid "some villagers are ill"
-msgstr "有一些村民死掉了"
+msgstr "kai kurie kaimiečiai serga."
 
 #: script/events/outside.js:109
 msgid "1 medicine"
-msgstr "1支药剂"
+msgstr "1 vaistas"
 
 #: script/events/outside.js:114
 msgid "ignore it"
-msgstr "放任不管"
+msgstr "nekreipti dėmesio "
 
 #: script/events/outside.js:121
 msgid "the sickness is cured in time."
-msgstr "疫病及时得到了控制"
+msgstr "su laiku ligos išgijo. "
 
 #: script/events/outside.js:123
 msgid "sufferers are healed"
-msgstr "遭难的人被治愈了"
+msgstr "ligoniai išgydomi"
 
 #: script/events/outside.js:133
 msgid "the sickness spreads through the village."
-msgstr "瘟疫在村子中蔓延"
+msgstr "kaimą nusiaubė ligos."
 
 #: script/events/outside.js:134
 msgid "the days are spent with burials."
-msgstr "葬礼接着葬礼"
+msgstr "dienos skirtos laidojimams."
 
 #: script/events/outside.js:135 script/events/outside.js:205
 msgid "the nights are rent with screams."
-msgstr "尖叫响彻黑夜"
+msgstr "naktys palydimos riksmų."
 
 #: script/events/outside.js:137
 msgid "sufferers are left to die"
-msgstr "遭难的人被留下等死"
+msgstr "sergantieji palikti likimo valiai."
 
 #: script/events/outside.js:153
 msgid "Plague"
-msgstr "黑死病"
+msgstr "Maras"
 
 #: script/events/outside.js:160
 msgid "a terrible plague is fast spreading through the village."
-msgstr "可怕的黑死病迅速地在村子里传播开来"
+msgstr "nuožmus maras greitai plinta po kaimą."
 
 #: script/events/outside.js:163
 msgid "a plague afflicts the village"
-msgstr "黑死病席卷村落"
+msgstr "kaimas kenčia nuo maro"
 
 #: script/events/outside.js:168
 msgid "buy medicine"
-msgstr "购买药剂"
+msgstr "pirkti vaistų"
 
 #: script/events/outside.js:174
 msgid "5 medicine"
-msgstr "5支药剂"
+msgstr "5 vaistai"
 
 #: script/events/outside.js:179
 msgid "do nothing"
-msgstr "置之不理"
+msgstr "nieko nedaryti"
 
 #: script/events/outside.js:186
 msgid "the plague is kept from spreading."
-msgstr "黑死病得到了控制"
+msgstr "maro plitimas sustabdomas."
 
 #: script/events/outside.js:187
 msgid "only a few die."
-msgstr "只有少数人死去"
+msgstr "miršta nedaug žmonių."
 
 #: script/events/outside.js:188
 msgid "the rest bury them."
-msgstr "剩下的人埋葬了他们"
+msgstr "likusieji juos palaidoja."
 
 #: script/events/outside.js:190
 msgid "epidemic is eradicated eventually"
-msgstr "疫情终于被根除"
+msgstr "epidemija pamažu sunaikinama"
 
 #: script/events/outside.js:204
 msgid "the plague rips through the village."
-msgstr "黑死病席卷村落"
+msgstr "kaimą užklumpa maro proveržis."
 
 #: script/events/outside.js:206
 msgid "the only hope is a quick death."
-msgstr "人们只求速死"
+msgstr "vienintelė viltis - greita mirtis."
 
 #: script/events/outside.js:208
 msgid "population is almost exterminated"
-msgstr "人类差一点灭绝"
+msgstr "beveik visa populiacija išnaikinama"
 
 #: script/events/outside.js:224
 msgid "A Beast Attack"
-msgstr "野兽来袭"
+msgstr "Žvėrių Išpuolis"
 
 #: script/events/outside.js:231
 msgid "a pack of snarling beasts pours out of the trees."
-msgstr "一群咆哮的野兽冲出丛林"
+msgstr "iš medžių iššoka gauja urzgiančių žvėrių."
 
 #: script/events/outside.js:232
 msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr "战斗短暂而血腥，但兽群溃退了"
+msgstr "kova trumpa ir kruvina, tačiau žvėris pavyko išguiti. "
 
 #: script/events/outside.js:233
 msgid "the villagers retreat to mourn the dead."
-msgstr "村民撤了回来，悼念那些死去的人"
+msgstr "kaimiečiai raudoja žuvusiųjų."
 
 #: script/events/outside.js:235
 msgid "wild beasts attack the villagers"
-msgstr "野兽袭击村民"
+msgstr "laukinis žvėris užpuola kaimiečius"
 
 #: script/events/outside.js:249
 msgid "predators become prey. price is unfair"
-msgstr "猎手变成猎物. 价格不公"
+msgstr "plėšrūnai tapo grobiu. gamta negailestinga"
 
 #: script/events/outside.js:258
 msgid "A Military Raid"
-msgstr "军事突袭"
+msgstr "Kariuomenės Reidas"
 
 #: script/events/outside.js:265
 msgid "a gunshot rings through the trees."
-msgstr "枪声啸过树林"
+msgstr "iš už medžių pasigirsta šūviai."
 
 #: script/events/outside.js:266
 msgid "well armed men charge out of the forest, firing into the crowd."
-msgstr "装备精良的人冲出树林，向人群射击"
+msgstr "gerai apsiginklavę žmonės išsiveržia iš miško, jie šaudo į minią."
 
 #: script/events/outside.js:267
 msgid "after a skirmish they are driven away, but not without losses."
-msgstr "虽然他们撤走了，但我们好些人牺牲了"
+msgstr "po susirėmimo juos pavyko išvyti, tačiau teko nemažai prarasti."
 
 #: script/events/outside.js:269
-#, fuzzy
 msgid "troops storm the village"
-msgstr "黑死病席卷村落"
+msgstr "kariuomenė apgulė kaimą"
 
 #: script/events/outside.js:283
 msgid "warfare is bloodthirsty"
-msgstr "战争变得嗜血"
+msgstr "karai yra žiaurūs ir negailestingi"
 
 #: script/events/room.js:6
 msgid "The Nomad"
-msgstr "游牧部落"
+msgstr "Klajoklis"
 
 #: script/events/room.js:13
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
-msgstr "游牧部落慢吞吞地出现在视野中，带着许多用粗麻线扎起来的临时口袋"
+msgstr "į kaimą įsliūkino klajoklis su nešuliu."
 
 #: script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr "他们没有提及来处，但显然不会逗留很久"
+msgstr "jis nesakė iš kur atvyko, tačiau akivaizdu, kad neketinąs likti."
 
 #: script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
-msgstr "游牧部落抵达，想要进行贸易"
+msgstr "atvyksta klajoklis, jis prekiauja įvairias daikčiukais"
 
 #: script/events/room.js:20
 msgid "buy scales"
-msgstr "购买鳞片"
+msgstr "pirkti žvynų"
 
 #: script/events/room.js:25
 msgid "buy teeth"
-msgstr "购买牙齿"
+msgstr "pirkti dantų"
 
 #: script/events/room.js:30
 msgid "buy bait"
-msgstr "购买诱饵"
+msgstr "pirkti masalo"
 
 #: script/events/room.js:33
 msgid "traps are more effective with bait."
-msgstr "上饵陷阱更有效率"
+msgstr "masalo dėka, spąstai bus veiksmingesni."
 
 #: script/events/room.js:39
 msgid "buy compass"
-msgstr "购买罗盘"
+msgstr "pirkti kompasą"
 
 #: script/events/room.js:42
 msgid "the old compass is dented and dusty, but it looks to work."
-msgstr "这块旧罗盘破损蒙尘，但看起来还能用"
+msgstr "kompasas atrodo senas, dulkėtas ir aplamdytas, regis veikia."
 
 #: script/events/room.js:45 script/events/room.js:227 script/events/room.js:240
 #: script/events/room.js:253 script/events/room.js:309
@@ -1947,380 +1967,384 @@ msgstr "这块旧罗盘破损蒙尘，但看起来还能用"
 #: script/events/room.js:568 script/events/room.js:584
 #: script/events/room.js:600 script/events/room.js:611
 msgid "say goodbye"
-msgstr "道别"
+msgstr "atsisveikinti"
 
 #: script/events/room.js:53 script/events/room.js:104
 msgid "Noises"
-msgstr "嘈杂"
+msgstr "Garsai"
 
 #: script/events/room.js:60
 msgid "through the walls, shuffling noises can be heard."
-msgstr "嘈杂声透墙传来"
+msgstr "už sienos girdisi bruzdesys."
 
 #: script/events/room.js:61
 msgid "can't tell what they're up to."
-msgstr "难以分辨来源"
+msgstr "nežinia, kas ten darosi."
 
 #: script/events/room.js:63
 msgid "strange noises can be heard through the walls"
-msgstr "古怪的声响透过墙壁传来"
+msgstr "už sienos girdisi keisti garsai."
 
 #: script/events/room.js:67 script/events/room.js:118
 #: script/events/setpieces.js:1662
 msgid "investigate"
-msgstr "调查"
+msgstr "ištirti"
 
 #: script/events/room.js:78
 msgid "vague shapes move, just out of sight."
-msgstr "模糊的身影掠过，消失在视野外"
+msgstr "netoliesi mirga neaiškūs siluetai."
 
 #: script/events/room.js:79
 msgid "the sounds stop."
-msgstr "安静下来了"
+msgstr "garsai liaujasi."
 
 #: script/events/room.js:83 script/events/room.js:96
 msgid "go back inside"
-msgstr "回屋"
+msgstr "grįžti vidun"
 
 #: script/events/room.js:91
 msgid ""
 "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
-msgstr "一捆用粗糙的毛皮扎起来的柴火斜倚在门槛上"
+msgstr "prie slenksčio guli keli kailiais apvynioti pagaliai."
 
 #: script/events/room.js:92
 msgid "the night is silent."
-msgstr "黑夜重归静谧"
+msgstr "naktis nebyli."
 
 #: script/events/room.js:111
 msgid "scratching noises can be heard from the store room."
-msgstr "仓库里传出悉悉索索的声音"
+msgstr "sandėlyje girdisi krebždesys."
 
 #: script/events/room.js:112
 msgid "something's in there."
-msgstr "有什么在那里"
+msgstr "ten kažkas yra."
 
 #: script/events/room.js:114
 msgid "something's in the store room"
-msgstr "不速之客闯入了仓库"
+msgstr "kažkas yra sandėlyje."
 
 #: script/events/room.js:129 script/events/room.js:149
 #: script/events/room.js:169
 msgid "some wood is missing."
-msgstr "有些木头不见了"
+msgstr "pasigesta medienos."
 
 #: script/events/room.js:130
 msgid "the ground is littered with small scales"
-msgstr "地上散落着小鳞片"
+msgstr "ant grindų primėtyta žvynų."
 
 #: script/events/room.js:150
 msgid "the ground is littered with small teeth"
-msgstr "地上散落着小牙齿"
+msgstr "ant grindų primėtyta dantų."
 
 #: script/events/room.js:170
 msgid "the ground is littered with scraps of cloth"
-msgstr "地上散落着布片"
+msgstr "ant grindų primėtyta audinio skiaučių. "
 
 #: script/events/room.js:190
 msgid "The Beggar"
-msgstr "乞丐"
+msgstr "Elgeta"
 
 #: script/events/room.js:197
 msgid "a beggar arrives."
-msgstr "乞丐徘徊在门前"
+msgstr "atvyko elgeta."
 
 #: script/events/room.js:198
 msgid "asks for any spare furs to keep him warm at night."
-msgstr "祈求能施舍给他一些多余的毛皮，好让他不在夜里受冻"
+msgstr "paprašė atliekamų kailių, jį nakčia sušildyti."
 
 #: script/events/room.js:200
 msgid "a beggar arrives"
-msgstr "乞丐来了"
+msgstr "atvyko elgeta"
 
 #: script/events/room.js:204
 msgid "give 50"
-msgstr "给50"
+msgstr "duoti 50"
 
 #: script/events/room.js:209 script/events/room.js:276
 #: script/events/room.js:355
 msgid "give 100"
-msgstr "给100"
+msgstr "duoti 100"
 
 #: script/events/room.js:214 script/events/room.js:286
 #: script/events/room.js:482
 msgid "turn him away"
-msgstr "撵走他"
+msgstr "duoti špygą"
 
 #: script/events/room.js:222 script/events/room.js:235
 #: script/events/room.js:248
 msgid "the beggar expresses his thanks."
-msgstr "乞丐感激涕零"
+msgstr "elgeta padėkoja."
 
 #: script/events/room.js:223
 msgid "leaves a pile of small scales behind."
-msgstr "留给我们一堆小鳞片"
+msgstr "palieką krūvelę žvynų."
 
 #: script/events/room.js:236
 msgid "leaves a pile of small teeth behind."
-msgstr "留给我们一堆小牙齿"
+msgstr "palieką krūvelę dantų."
 
 #: script/events/room.js:249
 msgid "leaves some scraps of cloth behind."
-msgstr "留给我们一些布料"
+msgstr "palieka audinių skiaučių."
 
 #: script/events/room.js:262 script/events/room.js:341
 msgid "The Mysterious Wanderer"
-msgstr "神秘流浪者"
+msgstr "Paslaptinga Keliautoja"
 
 #: script/events/room.js:269
 msgid ""
 "a wanderer arrives with an empty cart. says if he leaves with wood, he'll be "
 "back with more."
-msgstr "一名流浪者推着货车来到村子，声称如果让他带着木头离开，他会带回更多木头"
+msgstr ""
+"keliautoja atvyksta su tuščiu vežimu. sako, jeigu duosi jai medienos, ji "
+"grįš su dar daugiau. "
 
 #: script/events/room.js:270
 msgid "builder's not sure he's to be trusted."
-msgstr "建造者不确定能否信任他"
+msgstr "statytoja ja nepasitiki."
 
 #: script/events/room.js:272 script/events/room.js:351
 msgid "a mysterious wanderer arrives"
-msgstr "神秘流浪者来了"
+msgstr "atvyksta paslaptinga keliautoja"
 
 #: script/events/room.js:281 script/events/room.js:360
 msgid "give 500"
-msgstr "给500"
+msgstr "duoti 500"
 
 #: script/events/room.js:293 script/events/room.js:316
 msgid "the wanderer leaves, cart loaded with wood"
-msgstr "流浪者带着满载木头的货车离开了"
+msgstr "keliautoja išvyksta vežimu prikrautu medienos"
 
 #: script/events/room.js:299 script/events/room.js:322
 msgid "the mysterious wanderer returns, cart piled high with wood."
-msgstr "神秘的流浪者回来了，货车上木头堆得更高了"
+msgstr "paslaptinga keliautoja grįžta, jo vežimas sklidinas medienos. "
 
 #: script/events/room.js:348
 msgid ""
 "a wanderer arrives with an empty cart. says if she leaves with furs, she'll "
 "be back with more."
-msgstr "一名流浪者推着货车来到村子，声称如果让她带着毛皮离开，她会带回更多毛皮"
+msgstr ""
+"keliautoja grįžta tuščiu vežimu. sako, jeigu duosi jai kailių, ji juos "
+"gražins su kaupu."
 
 #: script/events/room.js:349
 msgid "builder's not sure she's to be trusted."
-msgstr "建造者不确定能否信任她"
+msgstr "statytoja abejoja, ar verta ja pasitikėti."
 
 #: script/events/room.js:365
 msgid "turn her away"
-msgstr "撵走她"
+msgstr "nieko neduoti"
 
 #: script/events/room.js:372 script/events/room.js:395
 msgid "the wanderer leaves, cart loaded with furs"
-msgstr "流浪者带着满载毛皮的货车离开了"
+msgstr "keliautoja išvyksta su daugybe kailių"
 
 #: script/events/room.js:378 script/events/room.js:401
 msgid "the mysterious wanderer returns, cart piled high with furs."
-msgstr "神秘的流浪者回来了，货车上毛皮堆得更高了"
+msgstr "keliautoja grįžta, jos vežime pilna kailių."
 
 #: script/events/room.js:420
 msgid "The Scout"
-msgstr "侦察兵"
+msgstr "Žvalgas"
 
 #: script/events/room.js:427
 msgid "the scout says she's been all over."
-msgstr "侦察兵说她曾环游世界"
+msgstr "skautė sako jis visur buvęs, visko matęs."
 
 #: script/events/room.js:428
 msgid "willing to talk about it, for a price."
-msgstr "她愿意为我们分享她的经历，只需提供一些报酬"
+msgstr "už tinkamą atlygį ji mielai viską papasakotų."
 
 #: script/events/room.js:430
 msgid "a scout stops for the night"
-msgstr "侦察兵夜宿于此"
+msgstr "žvalgas sustoja nakčiai"
 
 #: script/events/room.js:434
 msgid "buy map"
-msgstr "购买地图"
+msgstr "pirkti žemėlapį"
 
 #: script/events/room.js:436
 msgid "the map uncovers a bit of the world"
-msgstr "地图上已探知的地方扩大了一点"
+msgstr "žemėlapis atskleidžia apylinkes"
 
 #: script/events/room.js:440
 msgid "learn scouting"
-msgstr "学习侦察"
+msgstr "išmokti žvalgybos"
 
 #: script/events/room.js:459
 msgid "The Master"
-msgstr "宗师"
+msgstr "Išminčius"
 
 #: script/events/room.js:466
 msgid "an old wanderer arrives."
-msgstr "一名年迈的流浪者抵达了"
+msgstr "atvysta senas keliauninkas. "
 
 #: script/events/room.js:467
 msgid "he smiles warmly and asks for lodgings for the night."
-msgstr "他面带和煦的微笑，请求留宿一晚"
+msgstr "jis šiltai nusišypso ir paprašo nakvynės."
 
 #: script/events/room.js:469
 msgid "an old wanderer arrives"
-msgstr "年迈的流浪者出现了"
+msgstr "atvysta senas keliauninkas."
 
 #: script/events/room.js:473
 msgid "agree"
-msgstr "同意老人的请求"
+msgstr "sutikti"
 
 #: script/events/room.js:489
 msgid "in exchange, the wanderer offers his wisdom."
-msgstr "作为回报，流浪者为我们分享了他的智慧"
+msgstr "už nakvynę senolis pasidalins savo išmintimi. "
 
 #: script/events/room.js:493
 msgid "evasion"
-msgstr "避实就虚"
+msgstr "vengimas"
 
 #: script/events/room.js:503
 msgid "precision"
-msgstr "精密"
+msgstr "taiklumas"
 
 #: script/events/room.js:513
 msgid "force"
-msgstr "野蛮人"
+msgstr "jėga"
 
 #: script/events/room.js:532
 msgid "The Sick Man"
-msgstr "患病男子"
+msgstr "Ligonis"
 
 #: script/events/room.js:539
 msgid "a man hobbles up, coughing."
-msgstr "男子咳嗽着，一瘸一拐地走了过来"
+msgstr "atšlubuoja vyras, jis kosti."
 
 #: script/events/room.js:540
 msgid "he begs for medicine."
-msgstr "他祈求分给他一支药剂"
+msgstr "jis maldauja vaistų."
 
 #: script/events/room.js:542
 msgid "a sick man hobbles up"
-msgstr "患病男子一瘸一拐地走了过来"
+msgstr "atšlubuoja sergantis vyras"
 
 #: script/events/room.js:546
 msgid "give 1 medicine"
-msgstr "分给他一支药剂"
+msgstr "duoti 1 vaistą"
 
 #: script/events/room.js:548
 msgid "the man swallows the medicine eagerly"
-msgstr "男子迫不及待咽下了药剂"
+msgstr "vyras greitai praryja vaistus"
 
 #: script/events/room.js:552
 msgid "tell him to leave"
-msgstr "请他离开"
+msgstr "liepti jam išeiti"
 
 #: script/events/room.js:559 script/events/room.js:575
 #: script/events/room.js:591
 msgid "the man is thankful."
-msgstr "男子感激涕零"
+msgstr "vyras dėkoja."
 
 #: script/events/room.js:560 script/events/room.js:576
 #: script/events/room.js:592
 msgid "he leaves a reward."
-msgstr "他留下报酬走了"
+msgstr "jis palieka atlygį."
 
 #: script/events/room.js:561
 msgid "some weird metal he picked up on his travels."
-msgstr "那是他在旅途中捡到的一些古怪的金属"
+msgstr "keistas metalo gabaliukas, kurį jis radęs keliaudamas"
 
 #: script/events/room.js:577
 msgid "some weird glowing boxes he picked up on his travels."
-msgstr "那是他在旅途中捡到的一些古怪的发光盒子"
+msgstr "keistos žibančios dėžutės, kurias jis radęs savo kelionėse"
 
 #: script/events/room.js:593
 msgid "all he has are some scales."
-msgstr "全是些鳞片"
+msgstr "jis turi tik saujelę žvynų."
 
 #: script/events/room.js:607
 msgid "the man expresses his thanks and hobbles off."
-msgstr "男子表达了他的谢意，一瘸一拐地离开了"
+msgstr "vyras padėkoja ir nušlubčioja savo keliais."
 
 #: script/events/setpieces.js:6
 msgid "An Outpost"
-msgstr "前哨"
+msgstr "Stebėjimo Postas"
 
 #: script/events/setpieces.js:10 script/events/setpieces.js:12
 msgid "a safe place in the wilds."
-msgstr "荒野中安全的地方"
+msgstr "saugi vieta miškuose."
 
 #: script/events/setpieces.js:34
 msgid "A Murky Swamp"
-msgstr "迷雾沼泽"
+msgstr "Drumzli Pelkė"
 
 #: script/events/setpieces.js:38
 msgid "rotting reeds rise out of the swampy earth."
-msgstr "腐烂的芦草冒出沼泽"
+msgstr "pelkėtuose plotuose styro pūvančios nendrės."
 
 #: script/events/setpieces.js:39
 msgid "a lone frog sits in the muck, silently."
-msgstr "一只孤独的蛙蹲坐在淤泥中，一言不发"
+msgstr "vieniša varlė sėdi purvynuose, tyli."
 
-# dur dur dur
 #: script/events/setpieces.js:41
 msgid "a swamp festers in the stagnant air."
-msgstr "凝滞的空气中，沼泽正在溃烂"
+msgstr "pelkė glūdi tykiame ore. "
 
 #: script/events/setpieces.js:44 script/events/setpieces.js:549
 #: script/events/setpieces.js:606 script/events/setpieces.js:888
 #: script/events/setpieces.js:1313 script/events/setpieces.js:1331
 #: script/events/setpieces.js:3535
 msgid "enter"
-msgstr "进入"
+msgstr "eiti tolyn"
 
 #: script/events/setpieces.js:55
 msgid "deep in the swamp is a moss-covered cabin."
-msgstr "沼泽深处现出一栋覆满苔藓的小屋"
+msgstr "giliai pelkėje stovi samanota trobelė. "
 
 #: script/events/setpieces.js:56
 msgid "an old wanderer sits inside, in a seeming trance."
-msgstr "一名年迈的流浪者坐在里头，看起来正在发呆"
+msgstr "viduje sėdi senas klajoklis, jis paniręs į transą."
 
 #: script/events/setpieces.js:61
 msgid "talk"
-msgstr "对话"
+msgstr "kalbėti"
 
 #: script/events/setpieces.js:72
 msgid "the wanderer takes the charm and nods slowly."
-msgstr "流浪者接过符咒，缓缓点了点头"
+msgstr "senolis priima amuletą ir lėtai sulinksi."
 
 #: script/events/setpieces.js:73
 msgid "he speaks of once leading the great fleets to fresh worlds."
-msgstr "他谈起曾率领一支伟大的舰队前往新世界"
+msgstr "jis pasakoja apie laikus, kai į naują pasaulį vedė didingus laivynus."
 
 #: script/events/setpieces.js:74
 msgid "unfathomable destruction to fuel wanderer hungers."
-msgstr "以莫测的毁灭之力填补流浪者心中的欲壑"
+msgstr ""
+"beribis naikinimas ir karas turėjo patenkinti keliautojų galios troškimą. "
 
 #: script/events/setpieces.js:75
 msgid "his time here, now, is his penance."
-msgstr "而如今，他待在这里的时光都在为此赎罪"
+msgstr "tremtis čia yra jo bausmė."
 
 #: script/events/setpieces.js:91
 msgid "A Damp Cave"
-msgstr "潮湿洞穴"
+msgstr "Drėgna Ola"
 
 #: script/events/setpieces.js:95
 msgid "the mouth of the cave is wide and dark."
-msgstr "洞口宽敞而黑暗"
+msgstr "olos įėjimas platus ir tamsus."
 
 #: script/events/setpieces.js:96
 msgid "can't see what's inside."
-msgstr "看不清里面有什么"
+msgstr "nesimato, kas viduje."
 
 #: script/events/setpieces.js:98
 msgid "the earth here is split, as if bearing an ancient wound"
-msgstr "大地裂开，宛如古老的伤痕"
+msgstr "žemė šioje vietoje suskilusi, tarsi labai sena žaizda"
 
 #: script/events/setpieces.js:101 script/events/setpieces.js:2944
 #: script/events/setpieces.js:3458
 msgid "go inside"
-msgstr "进入"
+msgstr "eiti vidun"
 
 #: script/events/setpieces.js:120 script/events/setpieces.js:265
 msgid "a startled beast defends its home"
-msgstr "受到惊吓的野兽正要捍卫它的巢穴"
+msgstr "išsigandęs žvėris gina savo namus"
 
 #: script/events/setpieces.js:135 script/events/setpieces.js:186
 #: script/events/setpieces.js:228 script/events/setpieces.js:247
@@ -2353,7 +2377,7 @@ msgstr "受到惊吓的野兽正要捍卫它的巢穴"
 #: script/events/setpieces.js:3347 script/events/setpieces.js:3381
 #: script/events/setpieces.js:3420
 msgid "continue"
-msgstr "继续深入"
+msgstr "eiti tolyn"
 
 #: script/events/setpieces.js:140 script/events/setpieces.js:157
 #: script/events/setpieces.js:191 script/events/setpieces.js:233
@@ -2362,107 +2386,108 @@ msgstr "继续深入"
 #: script/events/setpieces.js:387 script/events/setpieces.js:429
 #: script/events/setpieces.js:481 script/events/setpieces.js:513
 msgid "leave cave"
-msgstr "离开洞穴"
+msgstr "palikti olą"
 
 #: script/events/setpieces.js:148
 msgid "the cave narrows a few feet in."
-msgstr "洞穴狭窄，几无立足之地"
+msgstr "po kelių metrų, ola pradeda siaurėti."
 
 #: script/events/setpieces.js:149
 msgid "the walls are moist and moss-covered"
-msgstr "岩壁潮湿，覆盖着苔藓"
+msgstr "sienos drėgnos ir samanotos"
 
 #: script/events/setpieces.js:153
 msgid "squeeze"
-msgstr "挤入深处"
+msgstr "įsisprausti"
 
 #: script/events/setpieces.js:164
 msgid "the remains of an old camp sits just inside the cave."
-msgstr "洞穴内出现一处老旧营地的遗迹"
+msgstr "viduje - senos stovyklavietės liekanos."
 
 #: script/events/setpieces.js:165
 msgid "bedrolls, torn and blackened, lay beneath a thin layer of dust."
-msgstr "污损的睡袋平躺着，布满了薄薄的灰尘"
+msgstr "pajuodavę ir suplėšyti miegmaišiai padengti plonu dulkių sluoksniu."
 
 #: script/events/setpieces.js:199
 msgid "the body of a wanderer lies in a small cavern."
-msgstr "流浪者的尸体躺在狭小的洞穴里"
+msgstr "urvelyje guli keliautojo palaikai."
 
 #: script/events/setpieces.js:200
 msgid "rot's been to work on it, and some of the pieces are missing."
-msgstr "它已经开始腐烂，且遗失了一些肢体"
+msgstr "jie pradėję pūti, trūksta kelių kūno dalių."
 
 #: script/events/setpieces.js:202
 msgid "can't tell what left it here."
-msgstr "难说这里还留下了什么"
+msgstr "nežinia kas jį čia paliko."
 
 #: script/events/setpieces.js:241
 msgid "the torch sputters and dies in the damp air"
-msgstr "火把劈啪作响，熄灭在了潮湿的空气中"
+msgstr "deglas suspragsi ir užgesta drėgname ore."
 
 #: script/events/setpieces.js:242
 msgid "the darkness is absolute"
-msgstr "漆黑一片"
+msgstr "visiška tamsa"
 
 #: script/events/setpieces.js:244
 msgid "the torch goes out"
-msgstr "火把燃尽了"
+msgstr "deglas užgesta "
 
 #: script/events/setpieces.js:299
 msgid "a cave lizard attacks"
-msgstr "一头洞穴蜥蜴袭来"
+msgstr "olos driežas puola"
 
 #: script/events/setpieces.js:333
 msgid "a large beast charges out of the dark"
-msgstr "一头巨兽冲出黑暗"
+msgstr "iš tamsos išnyra pabaisa"
 
 #: script/events/setpieces.js:367
 msgid "a giant lizard shambles forward"
-msgstr "一头洞穴蜥蜴跌跌撞撞地袭来"
+msgstr "didžiulis driežas krypuoja artyn"
 
 #: script/events/setpieces.js:395
 msgid "the nest of a large animal lies at the back of the cave."
-msgstr "巨兽的巢穴就位于洞穴后方"
+msgstr "olos gale stūkso didžiulio gyvūno lizdas."
 
 #: script/events/setpieces.js:437
 msgid "a small supply cache is hidden at the back of the cave."
-msgstr "一个小型供给点藏在洞穴后方"
+msgstr "olos gale paslėpta atsargos priemonių."
 
 #: script/events/setpieces.js:489
 msgid "an old case is wedged behind a rock, covered in a thick layer of dust."
-msgstr "岩石下嵌着一个旧盒子，上面覆满一层薄灰"
+msgstr "už akmens užkritus sena, dulkėta dėžė."
 
 #: script/events/setpieces.js:522
 msgid "A Deserted Town"
-msgstr "沙漠小镇"
+msgstr "Apleistas Miestelis"
 
 #: script/events/setpieces.js:526
 msgid "a small suburb lays ahead, empty houses scorched and peeling."
-msgstr "前面是一小片住宅区，空无一人，徒留烧焦的残垣断壁"
+msgstr "priešais yra mažas priemiestis, namai nublukę ir apsilupę."
 
 #: script/events/setpieces.js:527
 msgid ""
 "broken streetlights stand, rusting. light hasn't graced this place in a long "
 "time."
-msgstr "早就损坏的街灯屹立着，锈迹斑斑.光明已经很久没有眷顾这里"
+msgstr ""
+"gatvės žibintai sudaužyti, surūdiję. ši vieta ilga laiką nematė gyvybės. "
 
 #: script/events/setpieces.js:529
 msgid "the town lies abandoned, its citizens long dead"
-msgstr "这里的小镇早就被遗弃，镇上的居民已经死去多时"
+msgstr "miestelis apleistas, jo gyventojai seniai išmirę"
 
 #: script/events/setpieces.js:532 script/events/setpieces.js:1250
 msgid "explore"
-msgstr "探索小镇"
+msgstr "tyrinėti"
 
 #: script/events/setpieces.js:544
 msgid ""
 "where the windows of the schoolhouse aren't shattered, they're blackened "
 "with soot."
-msgstr "校舍的窗玻璃并没有碎掉，但却被烟熏黑了"
+msgstr "mokyklos langai sudužę ir pajuodę nuo suodžų."
 
 #: script/events/setpieces.js:545
 msgid "the double doors creak endlessly in the wind."
-msgstr "双开门在风中不停地咯吱作响"
+msgstr "didelės durys liūdnai girgždi vėjyje. "
 
 #: script/events/setpieces.js:554 script/events/setpieces.js:593
 #: script/events/setpieces.js:611 script/events/setpieces.js:649
@@ -2476,175 +2501,181 @@ msgstr "双开门在风中不停地咯吱作响"
 #: script/events/setpieces.js:1148 script/events/setpieces.js:1192
 #: script/events/setpieces.js:1214 script/events/setpieces.js:1230
 msgid "leave town"
-msgstr "离开小镇"
+msgstr "palikti miestą"
 
 #: script/events/setpieces.js:585
 msgid "ambushed on the street."
-msgstr "街头有埋伏"
+msgstr "užpultas gatvėje."
 
 #: script/events/setpieces.js:601
 msgid "a squat building up ahead."
-msgstr "前面有一间空房"
+msgstr "priešais statomas namas."
 
 #: script/events/setpieces.js:602
 msgid "a green cross barely visible behind grimy windows."
-msgstr "绿草在肮脏的窗户后几乎看不见"
+msgstr "pro nešvarius langus, šiek tiek matosi žalias kryžius."
 
 #: script/events/setpieces.js:618
 msgid "a small cache of supplies is tucked inside a rusting locker."
-msgstr "一份补给品被塞进一个生锈的柜子里."
+msgstr "surūdijusioje spintelėje įgrūsta šiek tiek išteklių."
 
 #: script/events/setpieces.js:680
 msgid "a scavenger waits just inside the door."
-msgstr "门的后面有一位拾荒者."
+msgstr "ieškotojas laukia už durų."
 
 #: script/events/setpieces.js:714
 msgid "a beast stands alone in an overgrown park."
-msgstr "一只野兽在一个杂草丛生的公园中央。"
+msgstr "apaugusiame parke stovi žvėris."
 
 #: script/events/setpieces.js:730
 msgid "an overturned caravan is spread across the pockmarked street."
-msgstr "蜿蜒曲折的街道上.一支忙碌的商队正在整理翻到的马车."
+msgstr "apverstas vežimas išsitaškęs ant gatvės."
 
 #: script/events/setpieces.js:731
 msgid ""
 "it's been picked over by scavengers, but there's still some things worth "
 "taking."
-msgstr "这里已经被拾荒者光顾过了.但是细心点还是能找到点什么"
+msgstr "ieškotojai jau jį apšvarino, bet yra likę keletas vertingų dalykų."
 
 #: script/events/setpieces.js:793
 msgid "a madman attacks, screeching."
-msgstr "一个男人疯狂的尖叫并攻击你"
+msgstr "klykdamas puola beprotis."
 
 #: script/events/setpieces.js:832
 msgid "a thug moves out of the shadows."
-msgstr "一个暴徒慢慢走出阴影."
+msgstr "iš šešėlių išnyra banditas."
 
 #: script/events/setpieces.js:866
 msgid "a beast charges out of a ransacked classroom."
-msgstr "一头巨兽冲出教师"
+msgstr "žvėris išsiveržia iš apvogto kabineto."
 
 #: script/events/setpieces.js:882
 msgid "through the large gymnasium doors, footsteps can be heard."
-msgstr "通过体育馆门,可以听到脚步声"
+msgstr "už salės durų girdisi žingsniai."
 
 #: script/events/setpieces.js:883
 msgid "the torchlight casts a flickering glow down the hallway."
-msgstr "火炬在走廊上闪烁着光芒."
+msgstr "deglas užlieja koridorių mirgančia šviesa."
 
 #: script/events/setpieces.js:884
 msgid "the footsteps stop."
-msgstr "脚步停止"
+msgstr "žingsniai sustoja."
 
 #: script/events/setpieces.js:917
 msgid "another beast, draw by the noise, leaps out of a copse of trees."
-msgstr "从树丛里跳出一只野兽. 浓重的鼻息."
+msgstr "išgirdęs triukšmą, iš brūzgyno iššoka dar vienas žvėris."
 
 #: script/events/setpieces.js:933
 msgid "something's causing a commotion a ways down the road."
-msgstr "前面的路上有什么引起了骚动."
+msgstr "kelio gale kažkas kelia šurmulį."
 
 #: script/events/setpieces.js:934
 msgid "a fight, maybe."
-msgstr "也许是在打架"
+msgstr "galbūt kova."
 
 #: script/events/setpieces.js:949
 msgid ""
 "a small basket of food is hidden under a park bench, with a note attached."
-msgstr "一个小篮子食物被掩藏在公园长椅下,上面有张字条"
+msgstr ""
+"po parko suoliuku paslėptas krepšelis maisto, prie kurio pritvirtintas "
+"raštelis."
 
 #: script/events/setpieces.js:950
 msgid "can't read the words."
-msgstr "不认识的字"
+msgstr "negaliu perskaityti žodžių."
 
 #: script/events/setpieces.js:997
 msgid "a panicked scavenger bursts through the door, screaming."
-msgstr "拾荒者突然尖叫着穿过了门"
+msgstr "panikuodamas, rėkdamas ieškotojas įsiveržia pro duris."
 
 #: script/events/setpieces.js:1036
 msgid "a man stands over a dead wanderer. notices he's not alone."
-msgstr "一个人站在尸体旁边.他不再孤单一人"
+msgstr "šalia keliautojo kūno stovi vyras. pastebi, jog jis ne vienas."
 
 #: script/events/setpieces.js:1052
 msgid "scavenger had a small camp in the school."
-msgstr "学校旁边有个拾荒者的据点"
+msgstr "ieškotojas mokykloje buvo įrengęs mažą stovyklą."
 
 #: script/events/setpieces.js:1053
 msgid "collected scraps spread across the floor like they fell from heaven."
-msgstr "穿过这个门收集天堂掉下来的废料."
+msgstr "lyg iš dangaus nukritę ant grindų guli metalo gabaliukai."
 
 #: script/events/setpieces.js:1095
 msgid "scavenger'd been looking for supplies in here, it seems."
-msgstr "拾荒者一直在这里寻找什么."
+msgstr "atrodo, kad ieškotojas ieškojo čia išteklių."
 
 #: script/events/setpieces.js:1096
 msgid "a shame to let what he'd found go to waste."
-msgstr "浪费东西十分可耻"
+msgstr "nesmagu būtų jei tai, ką jis rado, nueitų veltui."
 
 #: script/events/setpieces.js:1128
 msgid ""
 "beneath the wanderer's rags, clutched in one of its many hands, a glint of "
 "steel."
-msgstr "拾荒者被破布盖着的手中隐约闪着金属的光芒."
+msgstr "po keliautojo skudurais, vienoje iš jo rankų spindi metalas."
 
 #: script/events/setpieces.js:1129
 msgid "worth killing for, it seems."
-msgstr "也许应该先下手"
+msgstr "atrodo, jog dėl to verta žudyti."
 
 #: script/events/setpieces.js:1156
 msgid "eye for an eye seems fair."
-msgstr "凶狠的看着对方"
+msgstr "atrodo sąžininga - akis už akį."
 
 #: script/events/setpieces.js:1157
 msgid "always worked before, at least."
-msgstr "以前还在工作"
+msgstr "bent anksčiau suveikdavo visada."
 
 #: script/events/setpieces.js:1158
 msgid "picking the bones finds some useful trinkets."
-msgstr "在骨头堆里找到一些有用的饰品."
+msgstr "tarp kaulų matosi keletas naudingų niekučių."
 
 #: script/events/setpieces.js:1200
 msgid "some medicine abandoned in the drawers."
-msgstr "一些药物放在抽屉里"
+msgstr "stalčiuose palikta šiek tiek vaistų."
 
 #: script/events/setpieces.js:1222
 msgid "the clinic has been ransacked."
-msgstr "诊所已被洗劫."
+msgstr "ši klinika apvogta."
 
 #: script/events/setpieces.js:1223
 msgid "only dust and stains remain."
-msgstr "只有尘土和污渍仍然存在."
+msgstr "beliko dulkės ir dėmės."
 
 #: script/events/setpieces.js:1239
 msgid "A Ruined City"
-msgstr "被毁的城市"
+msgstr "Apgriuvęs Miestas"
 
 #: script/events/setpieces.js:1243
 msgid ""
 "a battered highway sign stands guard at the entrance to this once-great city."
-msgstr "顺坏的标志竖立在这个曾经伟大的城市入口."
+msgstr ""
+"aplamdytas kelio ženklas stovi lyg sargas prie įėjimo į šį kadaise didį "
+"miestą."
 
 #: script/events/setpieces.js:1244
 msgid ""
 "the towers that haven't crumbled jut from the landscape like the ribcage of "
 "some ancient beast."
-msgstr "这个塔有点像腹部破了一个大洞的古老怪兽."
+msgstr ""
+"nesugriuvę bokštai kyšo iš kraštovaizdžio lyg kokios senovinės pabaisos "
+"šonkauliai."
 
 #: script/events/setpieces.js:1245
 msgid "might be things worth having still inside."
-msgstr "这个东西有点价值"
+msgstr "viduje gali būti vertingų dalykų."
 
 #: script/events/setpieces.js:1247
 msgid "the towers of a decaying city dominate the skyline"
-msgstr "这座塔在残破的城市里犹如一道天际线"
+msgstr "apirusio miesto bokštai dominuoja padangę."
 
 #: script/events/setpieces.js:1261
 msgid "the streets are empty."
-msgstr "剩下空荡的街道"
+msgstr "gatvės tuščios."
 
 #: script/events/setpieces.js:1262
 msgid "the air is filled with dust, driven relentlessly by the hard winds."
-msgstr "漫天的灰尘在风中飘荡"
+msgstr "oras pilnas nepaliaujamai pustomų dulkių."
 
 #: script/events/setpieces.js:1270 script/events/setpieces.js:1286
 #: script/events/setpieces.js:1302 script/events/setpieces.js:1318
@@ -2672,600 +2703,596 @@ msgstr "漫天的灰尘在风中飘荡"
 #: script/events/setpieces.js:2835 script/events/setpieces.js:2881
 #: script/events/setpieces.js:2925
 msgid "leave city"
-msgstr "离开城市"
+msgstr "palikti miestą"
 
 #: script/events/setpieces.js:1277
 msgid "orange traffic cones are set across the street, faded and cracked."
-msgstr "街道对面全是橙色的路障."
+msgstr "išblukę ir sulūžę oranžiniai eismo kūgiai išdėlioti gatvėje."
 
 #: script/events/setpieces.js:1278
 msgid "lights flash through the alleys between buildings."
-msgstr "巷子里闪烁着灯光"
+msgstr "skersgatviuose, tarp pastatų, blyksi šviesos."
 
 #: script/events/setpieces.js:1293
 msgid "a large shanty town sprawls across the streets."
-msgstr "街道上的帐篷一望无际."
+msgstr "gatvėmis išsidriekęs didžiulis lūšnynas."
 
 #: script/events/setpieces.js:1294
 msgid "faces, darkened by soot and blood, stare out from crooked huts."
-msgstr "烟熏缭绕的墙上都是早已发黑的血."
+msgstr "iš kreivų trobelių spokso suodžiais ir krauju padengti veidai."
 
 #: script/events/setpieces.js:1309
 msgid "the shell of an abandoned hospital looms ahead."
-msgstr "眺望废弃的医院大楼"
+msgstr "priešais stovi apleistos ligoninės griuvėsiai."
 
 #: script/events/setpieces.js:1325
 msgid "the old tower seems mostly intact."
-msgstr "旧的塔似乎大部分完好无损。"
+msgstr "senas bokštas atrodo beveik nepaliestas."
 
 #: script/events/setpieces.js:1326
 msgid "the shell of a burned out car blocks the entrance."
-msgstr "被烧毁的汽车阻挡了入口"
+msgstr "įėjimas užblokuotas sudegusios mašinos nuolaužomis."
 
 #: script/events/setpieces.js:1327
 msgid "most of the windows at ground level are busted anyway."
-msgstr "很多落地窗被打碎了"
+msgstr "dauguma langų pirmame aukšte vis tiek sudaužyti."
 
 #: script/events/setpieces.js:1342
 msgid "a huge lizard scrambles up out of the darkness of an old metro station."
-msgstr "巨大的蜥蜴从废弃地铁站里爬了出来"
+msgstr "senoje metro stotyje iš tamsos išropoja milžiniškas žvėris."
 
 #: script/events/setpieces.js:1368
 msgid "descend"
-msgstr "下去"
+msgstr "leistis"
 
 #: script/events/setpieces.js:1380
 msgid "the shot echoes in the empty street."
-msgstr "街道里回响着枪声."
+msgstr "šūvis nuaidi tuščioje gatvėje."
 
 #: script/events/setpieces.js:1420
 msgid "the soldier steps out from between the buildings, rifle raised."
-msgstr "士兵举着枪从建筑物之间走出来"
+msgstr "pakėlęs šautuvą iš už pastatų išnyra kareivis."
 
 #: script/events/setpieces.js:1460
 msgid "a frail man stands defiantly, blocking the path."
-msgstr "必经之路被一个虚弱的人挡住了"
+msgstr "užstodamas kelią priešiškai stovi gležnas vyras."
 
 #: script/events/setpieces.js:1505
 msgid "nothing but downcast eyes."
-msgstr "悲伤的双眼"
+msgstr "visur tik nusivylusios akys."
 
 #: script/events/setpieces.js:1506
 msgid "the people here were broken a long time ago."
-msgstr "人们很久以前这里就被打破了"
+msgstr "šie žmonės jau seniai buvo palaužti."
 
 #: script/events/setpieces.js:1521
 msgid "empty corridors."
-msgstr "空荡的走廊"
+msgstr "tušti koridoriai."
 
 #: script/events/setpieces.js:1522
 msgid "the place has been swept clean by scavengers."
-msgstr "清扫的很干净"
+msgstr "ši vieta jau apšvarinta ieškotojų."
 
 #: script/events/setpieces.js:1536
 msgid "an old man bursts through a door, wielding a scalpel."
-msgstr "一个老人挥舞的刀从门里跳出来"
+msgstr "pro duris įsiveržia senis, rankoje laikydamas skalpelį."
 
 #: script/events/setpieces.js:1575
 msgid "a thug is waiting on the other side of the wall."
-msgstr "暴徒在另一边看着"
+msgstr "kitoje sienos pusėje laukia banditas."
 
 #: script/events/setpieces.js:1615
 msgid "a snarling beast jumps out from behind a car."
-msgstr "咆哮的野兽从一辆车后面跳出来。"
+msgstr "iš už automobilio iššoka urzgiantis žvėris."
 
 #: script/events/setpieces.js:1656
 msgid "street above the subway platform is blown away."
-msgstr "街道上面的人早已经被吓跑"
+msgstr "virš metro platformos esanti gatvė susprogdinta."
 
 #: script/events/setpieces.js:1657
 msgid "lets some light down into the dusty haze."
-msgstr "一缕光线射入尘土飞扬的阴霾"
+msgstr "šiek tiek nušviečia dulkėtą miglą."
 
 #: script/events/setpieces.js:1658
 msgid "a sound comes from the tunnel, just ahead."
-msgstr "隧道的前面有一些响声"
+msgstr "iš artimo tunelio girdėti garsas."
 
 #: script/events/setpieces.js:1675
 msgid "looks like a camp of sorts up ahead."
-msgstr "前面在排队"
+msgstr "panašu, jog priešais kažkokia stovyklavietė."
 
 #: script/events/setpieces.js:1677
 msgid "rusted chainlink is pulled across an alleyway."
-msgstr "锈迹斑斑的铁链穿过小巷"
+msgstr "skersgatvis užtvertas surūdijusia tvora."
 
 #: script/events/setpieces.js:1678
 msgid "fires burn in the courtyard beyond."
-msgstr "院子里被烧着了"
+msgstr "priešais esančioje aikštėje dega ugnis."
 
 #: script/events/setpieces.js:1694
 msgid "more voices can be heard ahead."
-msgstr "可以听见更多的声音"
+msgstr "priekyje girdėti daugiau balsų."
 
 #: script/events/setpieces.js:1695
 msgid "they must be here for a reason."
-msgstr "为了一个理由留下"
+msgstr "jie čia ne be reikalo."
 
 #: script/events/setpieces.js:1711
-#, fuzzy
 msgid "the sound of gunfire carries on the wind."
-msgstr "双开门在风中不停地咯吱作响"
+msgstr "vėjas atneša šūvių garsą."
 
 #: script/events/setpieces.js:1712
 msgid "the street ahead glows with firelight."
-msgstr "前面的街道闪着火光"
+msgstr "priešais gatvė spindi ugnies šviesa."
 
 #: script/events/setpieces.js:1729
 msgid "more squatters are crowding around now."
-msgstr "拥挤的破房子"
+msgstr "buriasi vis daugiau gyventojų."
 
 #: script/events/setpieces.js:1730
 msgid "someone throws a stone."
-msgstr "有人扔出一个石头"
+msgstr "kažkas meta akmenį."
 
 #: script/events/setpieces.js:1746
 msgid "an improvised shop is set up on the sidewalk."
-msgstr "街道上有个临时商店"
+msgstr "šaligatvyje ekspromtu įrengta parduotuvė."
 
 #: script/events/setpieces.js:1747
 msgid "the owner stands by, stoic."
-msgstr "所有者是stoic"
+msgstr "stovi stoiškas savininkas."
 
 #: script/events/setpieces.js:1792
 msgid "strips of meat hang drying by the side of the street."
-msgstr "旁边挂着熏肉"
+msgstr "vienoje gatvės pusėje džiovinimui pakabinti mėsos gabalai."
 
 #: script/events/setpieces.js:1793
 msgid "the people back away, avoiding eye contact."
-msgstr "人们互相闪躲.避免眼神接触"
+msgstr "vengdami akių kontakto, žmonės atsitraukia."
 
 #: script/events/setpieces.js:1818
 msgid "someone has locked and barricaded the door to this operating theatre."
-msgstr "有人把手术室的门锁了."
+msgstr "kažkas užrakino ir užbarikadavo šios operacinės duris."
 
 #: script/events/setpieces.js:1833
 msgid "a tribe of elderly squatters is camped out in this ward."
-msgstr "一个老年寮屋部落在这个病房内露营"
+msgstr "šiame sparne įsikūrusi senų gyventojų gentis."
 
 #: script/events/setpieces.js:1874
 msgid "a pack of lizards rounds the corner."
-msgstr "一群蜥蜴在角落"
+msgstr "iš už kampo išlenda driežų gauja."
 
 #: script/events/setpieces.js:1916
 msgid "strips of meat are hung up to dry in this ward."
-msgstr "肉条挂在这个病房里干燥"
+msgstr "čia džiovinimui pakabinti mėsos gabalai."
 
 #: script/events/setpieces.js:1940
 msgid "a large bird nests at the top of the stairs."
-msgstr "一只大鸟倒挂在楼梯的顶部"
+msgstr "didelis paukštis tupi lizde laiptų viršuje."
 
 #: script/events/setpieces.js:1971
 msgid "the debris is denser here."
-msgstr "这里的碎片更多"
+msgstr "čia nuolaužos kur kas tankesnės."
 
 #: script/events/setpieces.js:1972
 msgid "maybe some useful stuff in the rubble."
-msgstr "瓦砾中有一些有用的东西"
+msgstr "nuolaužose gali būti ko nors naudingo."
 
 #: script/events/setpieces.js:2011
 msgid "a swarm of rats rushes up the tunnel."
-msgstr "隧道里冲出一堆老鼠"
+msgstr "pulkas žiurkių užskuba tuneliu."
 
 #: script/events/setpieces.js:2047
 msgid "a large man attacks, waving a bayonet."
-msgstr "一个中年人挥舞刺刀"
+msgstr "mojuodamas durtuvu, puola didžiulis vyras."
 
 #: script/events/setpieces.js:2082
 msgid "a second soldier opens fire."
-msgstr "其他士兵相继开火"
+msgstr "antras kareivis pradeda šaudyti."
 
 #: script/events/setpieces.js:2123
 msgid "a masked soldier rounds the corner, gun drawn"
-msgstr "士兵躲在掩体后"
+msgstr "iš už kampo išsitraukęs ginklą iššoka kaukėtas kareivis"
 
 #: script/events/setpieces.js:2164
 msgid "the crowd surges forward."
-msgstr "人群激增"
+msgstr "minia puola į priekį."
 
 #: script/events/setpieces.js:2200
 msgid "a youth lashes out with a tree branch."
-msgstr "树枝上长出了新的嫩芽"
+msgstr "jaunuolis puola nešinas medžio šaka."
 
 #: script/events/setpieces.js:2235
 msgid "a squatter stands firmly in the doorway of a small hut."
-msgstr "寮屋在一间小屋的门口巍然屹立"
+msgstr "mažos trobelės tarpduryje tvirtai stovi gyventojas."
 
 #: script/events/setpieces.js:2270
 msgid "behind the door, a deformed figure awakes and attacks."
-msgstr "门后突然有人袭来"
+msgstr "iš už durų, pabudusi puola iškreipta figūra."
 
 #: script/events/setpieces.js:2310
 msgid "as soon as the door is open a little bit, hundreds of tentacles erupt."
-msgstr "一旦打开了门.涌出了上百个触手"
+msgstr "durims šiek tiek atsidarius prasiveržia šimtai čiuptuvų."
 
 #: script/events/setpieces.js:2337
 msgid "bird must have liked shiney things."
-msgstr "鸟喜欢闪亮的东西"
+msgstr "šiam paukščiui matyt patiko blizgučiai."
 
 #: script/events/setpieces.js:2338
 msgid "some good stuff woven into its nest."
-msgstr "一些好东西编织成它的巢"
+msgstr "keletas naudingų dalykų jo lizde."
 
 #: script/events/setpieces.js:2372
 msgid "not much here."
-msgstr "这里没有了"
+msgstr "čia nieko ypatingo."
 
 #: script/events/setpieces.js:2373
 msgid "scavengers must have gotten to this place already."
-msgstr "拾荒者已经到了这个地方"
+msgstr "matyt ieškotojai jau rado šią vietą."
 
 #: script/events/setpieces.js:2403
 msgid "the tunnel opens up at another platform."
-msgstr "隧道出口在另一边"
+msgstr "šis tunelis atsiveria kitoje platformoje."
 
 #: script/events/setpieces.js:2404
 msgid "the walls are scorched from an old battle."
-msgstr "旧战场上的墙壁还在燃烧"
+msgstr "sienos apdegusios nuo senos kovos."
 
 #: script/events/setpieces.js:2405
 msgid "bodies and supplies from both sides litter the ground."
-msgstr "周围都是尸体"
+msgstr "abiejų pusių kūnai ir ištekliai išmėtyti and žemės."
 
 #: script/events/setpieces.js:2449
 msgid "the small military outpost is well supplied."
-msgstr "哨所供应充足"
+msgstr "šis mažas karinis stebėjimo postas gerai aprūpintas."
 
 #: script/events/setpieces.js:2450
 msgid ""
 "arms and munitions, relics from the war, are neatly arranged on the store-"
 "room floor."
-msgstr "武器和弹药整齐地放在商店的地板上"
+msgstr ""
+"ant kamaros grindų tvarkingai išdėlioti ginklai, amunicija ir karo "
+"relikvijos."
 
 #: script/events/setpieces.js:2451
 msgid "just as deadly now as they were then."
-msgstr "他们非常致命"
+msgstr "tokie mirtini kaip ir visada."
 
 #: script/events/setpieces.js:2485
 msgid "searching the bodies yields a few supplies."
-msgstr "搜索这里其他的地方"
+msgstr "apieškojus kūnus rasta šiek tiek išteklių."
 
 #: script/events/setpieces.js:2486
 msgid "more soldiers will be on their way."
-msgstr "更多的士兵在路上"
+msgstr "daugiau kareivių tuoj atvyks."
 
 #: script/events/setpieces.js:2487
 msgid "time to move on."
-msgstr "马上将要到来"
+msgstr "laikas judėti toliau."
 
 #: script/events/setpieces.js:2526
 msgid "the small settlement has clearly been burning a while."
-msgstr "明显燃烧了一段时间"
+msgstr "ši maža gyvenvietė aiškiai kurį laiką degė."
 
 #: script/events/setpieces.js:2527
 msgid ""
 "the bodies of the wanderers that lived here are still visible in the flames."
-msgstr "居住在这里的流浪者的尸体在火焰中仍然可见"
+msgstr "anksčiau čia gyvenusių keliautojų kūnai dar matosi liepsnose."
 
 #: script/events/setpieces.js:2528
 msgid "still time to rescue a few supplies."
-msgstr "还是时间抢救一些用品"
+msgstr "dar yra laiko išgelbėti keletą išteklių."
 
 #: script/events/setpieces.js:2562
 msgid ""
 "the remaining settlers flee from the violence, their belongings forgotten."
-msgstr "人们逃跑的时候丢下了很多东西"
+msgstr "likę gyventojai bėga nuo smurto, pamiršdami savo mantą."
 
 #: script/events/setpieces.js:2563
 msgid "there's not much, but some useful things can still be found."
-msgstr "没什么剩下,但一些有用的东西仍然可以找到"
+msgstr "daug dalykų nėra, bet dar likę keletas naudingų dalykų."
 
 #: script/events/setpieces.js:2597
 msgid "the young settler was carrying a canvas sack."
-msgstr "年轻的定居者携带一个帆布袋"
+msgstr "jaunasis naujakurys nešėsi lininį maišą."
 
 #: script/events/setpieces.js:2598
 msgid "it contains travelling gear, and a few trinkets."
-msgstr "一些齿轮和小饰品"
+msgstr "jame yra keliavimo įrankiai ir keletas niekučių."
 
 #: script/events/setpieces.js:2599 script/events/setpieces.js:2635
 msgid "there's nothing else here."
-msgstr "这里没东西了"
+msgstr "daugiau čia nieko nėra."
 
 #: script/events/setpieces.js:2633
 msgid "inside the hut, a child cries."
-msgstr "有个小孩在哭"
+msgstr "trobelėje verkia vaikas."
 
 #: script/events/setpieces.js:2634
 msgid "a few belongings rest against the walls."
-msgstr "墙边有些东西"
+msgstr "keletas daiktų atremti į sienas."
 
 #: script/events/setpieces.js:2674
 msgid "the stench of rot and death fills the operating theatres."
-msgstr "腐烂和死亡的恶臭充斥剧院"
+msgstr "puvenų ir mirties dvokas tūno operacinėse."
 
 #: script/events/setpieces.js:2675
 msgid "a few items are scattered on the ground."
-msgstr "几件物品散落在地上"
+msgstr "ant žemės mėtosi keletas daiktų."
 
 #: script/events/setpieces.js:2676
 msgid "there is nothing else here."
-msgstr "这里没东西了"
+msgstr "daugiau čia nieko nėra."
 
 #: script/events/setpieces.js:2715
 msgid "a pristine medicine cabinet at the end of a hallway."
-msgstr "在走廊的尽头有一个药柜"
+msgstr "koridoriaus gale nepaliesta vaistų spintelė."
 
 #: script/events/setpieces.js:2716
 msgid "the rest of the hospital is empty."
-msgstr "医院的其他房间是空的"
+msgstr "likusios ligoninės patalpos tuščios."
 
 #: script/events/setpieces.js:2750
 msgid "someone had been stockpiling loot here."
-msgstr "有人一直在这里抢劫"
+msgstr "kažkas čia kaupė savo lobį."
 
 #: script/events/setpieces.js:2799
 msgid "the tentacular horror is defeated."
-msgstr "触手怪被打败了"
+msgstr "čiuptuvais nusėta pabaisa nugalėta."
 
 #: script/events/setpieces.js:2800
 msgid "inside, the remains of its victims are everywhere."
-msgstr "其受害者的遗骸无处不在"
+msgstr "viduje pilna jo aukų palaikų."
 
 #: script/events/setpieces.js:2845
-#, fuzzy
 msgid "the warped man lies dead."
-msgstr "憔悴的男子倒下了"
+msgstr "iškreiptas žmogus guli negyvas."
 
 #: script/events/setpieces.js:2846
 msgid "the operating theatre has a lot of curious equipment."
-msgstr "手术室有很多有意思的设备"
+msgstr "operacinėje pilna keistos įrangos."
 
 #: script/events/setpieces.js:2890
 msgid "the old man had a small cache of interesting items."
-msgstr "老人有一个有趣的东西"
+msgstr "senolis turėjo mažą saugyklą pilną įdomių dalykų."
 
 #: script/events/setpieces.js:2934
 msgid "An Old House"
-msgstr "旧房子"
+msgstr "Senas Namas."
 
 #: script/events/setpieces.js:2938
 msgid "an old house remains here, once white siding yellowed and peeling."
-msgstr "一个老房子仍然在这里"
+msgstr "čia stovi senas namas, jo kadaise balta danga pageltus ir apsilupus."
 
 #: script/events/setpieces.js:2939
 msgid "the door hangs open."
-msgstr "门敞开着"
+msgstr "atviros durys."
 
 #: script/events/setpieces.js:2941
 msgid "the remains of an old house stand as a monument to simpler times"
-msgstr "旧房子内出现一处旧营地的遗迹"
+msgstr ""
+"šio seno namo griuvėsiai stovi lyg paminklas, primenantis paprastesnius "
+"laikus."
 
 #: script/events/setpieces.js:2955
 msgid "the house is abandoned, but not yet picked over."
-msgstr "房子被遗弃,没人来过"
+msgstr "namas apleistas, bet dar neapiplėštas."
 
 #: script/events/setpieces.js:2956
 msgid "still a few drops of water in the old well."
-msgstr "还有几口井"
+msgstr "sename šulinyje dar likę keli vandens lašai."
 
 #: script/events/setpieces.js:2990
 msgid "the house has been ransacked."
-msgstr "房子已被洗劫"
+msgstr "šis namas buvo apvogtas."
 
 #: script/events/setpieces.js:2991
 msgid "but there is a cache of medicine under the floorboards."
-msgstr "木地板下面有一些补给品"
+msgstr "tačiau po grindlentėmis paslėpta vaistų."
 
 #: script/events/setpieces.js:3019
 msgid "a man charges down the hall, a rusty blade in his hand"
-msgstr "大厅中央有一个人拿着一块生锈的刀片"
+msgstr "koridoriumi atbėga žmogus, laikydamas surūdijusį peilį"
 
 #: script/events/setpieces.js:3051
 msgid "A Forgotten Battlefield"
-msgstr "被遗忘的战场"
+msgstr "Užmirštas Mūšio Laukas"
 
 #: script/events/setpieces.js:3055
 msgid "a battle was fought here, long ago."
-msgstr "很久之前这里发生了战斗"
+msgstr "kažkada seniai čia įvyko kova."
 
 #: script/events/setpieces.js:3056
 msgid ""
 "battered technology from both sides lays dormant on the blasted landscape."
-msgstr "双方的战斗破坏了很多设备"
+msgstr ""
+"aplamdyti, neveikiantys abiejų pusių mechanizmai guli ant susprogdinto "
+"kraštovaizdžio."
 
 #: script/events/setpieces.js:3104
-#, fuzzy
 msgid "A Huge Borehole"
-msgstr "巨坑"
+msgstr "Didžiulis Gręžinys"
 
 #: script/events/setpieces.js:3108
 msgid "a huge hole is cut deep into the earth, evidence of the past harvest."
-msgstr "地球上的一个大洞"
+msgstr "čia milžiniška, gili skylė, atlikusi nuo praėjusio derliaus."
 
 #: script/events/setpieces.js:3109
 msgid "they took what they came for, and left."
-msgstr "放下后就走了"
+msgstr "jie rado tai ko ieškojo ir išvyko."
 
 #: script/events/setpieces.js:3110
 msgid ""
 "castoff from the mammoth drills can still be found by the edges of the "
 "precipice."
-msgstr "继续探索悬崖."
+msgstr "mamutų grąžtų liekanos vis dar mėtosi ant skardžio krašto."
 
 #: script/events/setpieces.js:3133
 msgid "A Crashed Ship"
-msgstr "一艘坠毁的船"
+msgstr "Sudužęs Laivas"
 
 #: script/events/setpieces.js:3142
 msgid ""
 "the familiar curves of a wanderer vessel rise up out of the dust and ash. "
-msgstr "漂亮的抛物线.船只从灰尘和灰烬中上升"
+msgstr "iš dulkių ir pelenų pakyla pažįstamos keliautojų laivo kreivės."
 
 #: script/events/setpieces.js:3143
 msgid "lucky that the natives can't work the mechanisms."
-msgstr "幸运的是这个机器还能工作"
+msgstr "pasisekė, jog vietiniai nemoka naudotis šiais mechanizmais."
 
 #: script/events/setpieces.js:3144
 msgid "with a little effort, it might fly again."
-msgstr "再努力飞一次"
+msgstr "su šiek tiek pastangų, jis gali skristi dar kartą."
 
 #: script/events/setpieces.js:3148
 msgid "salvage"
-msgstr "抢救"
+msgstr "surinkti"
 
 #: script/events/setpieces.js:3156
-#, fuzzy
 msgid "The Sulphur Mine"
-msgstr "硫磺矿"
+msgstr "Sieros Kasykla"
 
 #: script/events/setpieces.js:3160
 msgid "the military is already set up at the mine's entrance."
-msgstr "矿坑入口有军事设备"
+msgstr "prie kasyklos įėjimo jau įsikūrę kariškiai."
 
 #: script/events/setpieces.js:3161
 msgid "soldiers patrol the perimeter, rifles slung over their shoulders."
-msgstr "士兵肩膀上扛着步枪在周围巡逻"
+msgstr "perimetre patruliuoja kareiviai, ant pečių užsimetę šautuvus."
 
 #: script/events/setpieces.js:3163
 msgid "a military perimeter is set up around the mine."
-msgstr "矿井周围有军事设备"
+msgstr "aplink kasyklą įrengtas karinis perimetras."
 
 #: script/events/setpieces.js:3166 script/events/setpieces.js:3315
 msgid "attack"
-msgstr "攻击"
+msgstr "pulti"
 
 #: script/events/setpieces.js:3201
 msgid "a soldier, alerted, opens fire."
-msgstr "警报.开火"
+msgstr "kareivis pradeda šaudyti."
 
 #: script/events/setpieces.js:3209 script/events/setpieces.js:3249
 #: script/events/setpieces.js:3352 script/events/setpieces.js:3386
 msgid "run"
-msgstr "跑"
+msgstr "bėgti"
 
 #: script/events/setpieces.js:3241
 msgid "a second soldier joins the fight."
-msgstr "其他士兵加入了战斗"
+msgstr "antras kareivis prisijungia prie kovos."
 
 #: script/events/setpieces.js:3275
 msgid "a grizzled soldier attacks, waving a bayonet."
-msgstr "一个战士在挥舞刺刀"
+msgstr "mojuodamas durtuvu puola pražilęs kareivis."
 
 #: script/events/setpieces.js:3286
 msgid "the military presence has been cleared."
-msgstr "军事基地已经被清理干净了"
+msgstr "kariuomenė išsklaidyta."
 
 #: script/events/setpieces.js:3287 script/events/setpieces.js:3429
 #: script/events/setpieces.js:3505
 msgid "the mine is now safe for workers."
-msgstr "矿山安全了"
+msgstr "kasykloje dabar saugu dirbti."
 
 #: script/events/setpieces.js:3289
 msgid "the sulphur mine is clear of dangers"
-msgstr "硫磺矿没有危险"
+msgstr "sieros kasykloje nebėra pavojaus."
 
 #: script/events/setpieces.js:3305
-#, fuzzy
 msgid "The Coal Mine"
-msgstr "煤矿"
+msgstr "Anglies Kasykla"
 
 #: script/events/setpieces.js:3309
 msgid "camp fires burn by the entrance to the mine."
-msgstr "入口处在燃烧"
+msgstr "laužai dega prie kasyklos įėjimo."
 
 #: script/events/setpieces.js:3310
 msgid "men mill about, weapons at the ready."
-msgstr "时刻准备战斗"
+msgstr "aplink vaikštinėja ginkluoti vyrai."
 
 #: script/events/setpieces.js:3312
 msgid "this old mine is not abandoned"
-msgstr "没有被遗弃的旧矿"
+msgstr "ši sena kasykla neapleista"
 
 #: script/events/setpieces.js:3344 script/events/setpieces.js:3378
 msgid "a man joins the fight"
-msgstr "一个人加入战斗"
+msgstr "vyras prisijungia prie kovos"
 
 #: script/events/setpieces.js:3417
 msgid "only the chief remains."
-msgstr "勉强还能认出遗骸"
+msgstr "beliko tik vadas."
 
 #: script/events/setpieces.js:3428
 msgid "the camp is still, save for the crackling of the fires."
-msgstr "营地还在,中央的火堆还没熄灭"
+msgstr "stovykloje tylu, girdisi tik ugnies pleškesys."
 
 #: script/events/setpieces.js:3431
 msgid "the coal mine is clear of dangers"
-msgstr "煤矿没有危险"
+msgstr "anglies kasykloje nebėra pavojaus."
 
 #: script/events/setpieces.js:3447
-#, fuzzy
 msgid "The Iron Mine"
-msgstr "铁矿"
+msgstr "Geležies Kasykla"
 
 #: script/events/setpieces.js:3451
 msgid "an old iron mine sits here, tools abandoned and left to rust."
-msgstr "一座废弃的铁矿.四周都是生锈的工具"
+msgstr "čia stovi sena geležies kasykla, šalia jos guli aprūdiję įrankiai."
 
 #: script/events/setpieces.js:3452
 msgid ""
 "bleached bones are strewn about the entrance. many, deeply scored with "
 "jagged grooves."
-msgstr "入口处散落着很多被啃过的骨头"
+msgstr ""
+"aplink įėjimą išbarstyti pabalę kaulai, daugelis jų išraižyti kreivais "
+"grioveliais."
 
 #: script/events/setpieces.js:3453
 msgid "feral howls echo out of the darkness."
-msgstr "野兽在黑暗中咆哮"
+msgstr "tamsoje nuaidi kraupus kaukimas."
 
 #: script/events/setpieces.js:3455
 msgid "the path leads to an abandoned mine"
-msgstr "通向一个废弃的矿井"
+msgstr "šis kelias veda link apleistos kasyklos."
 
 #: script/events/setpieces.js:3493
 msgid "a large creature lunges, muscles rippling in the torchlight"
-msgstr "一个浑身燃烧的生物"
+msgstr "didelis padaras šoka į priekį, jo raumenys raibuliuoja deglų šviesoje."
 
 #: script/events/setpieces.js:3504
-#, fuzzy
 msgid "the beast is dead."
-msgstr "咆哮的野兽倒下了"
+msgstr "žvėris nebegyvas."
 
 #: script/events/setpieces.js:3507
 msgid "the iron mine is clear of dangers"
-msgstr "铁矿脉已经没有危险了"
+msgstr "geležies kasykloje nebėra pavojaus."
 
 #: script/events/setpieces.js:3524
-#, fuzzy
 msgid "A Destroyed Village"
-msgstr "中型村落"
+msgstr "Sunaikintas Kaimas"
 
 #: script/events/setpieces.js:3528
-#, fuzzy
 msgid "a destroyed village lies in the dust."
-msgstr "陌生人在夜里抵达"
+msgstr "sunaikintas kaimas glūdi dulkėse."
 
 #: script/events/setpieces.js:3529
 msgid "charred bodies litter the ground."
-msgstr "遍地焦尸"
+msgstr "apdegę kūnai dengia žemę."
 
 #: script/events/setpieces.js:3532
 msgid "the metallic tang of wanderer afterburner hangs in the air."
-msgstr "流浪汉被挂在金属架上"
+msgstr "aštrus metalo kvapas pasklido ore."
 
 #: script/events/setpieces.js:3546
 msgid "a shack stands at the center of the village."
-msgstr "一栋小棚子矗立在村子中央"
+msgstr "vidury kaimo stovi trobelė."
 
 #: script/events/setpieces.js:3547
 msgid "there are still supplies inside."
-msgstr "里头似乎还有些物资"
+msgstr "viduje dar liko reikmenų."
 
 #: script/events/setpieces.js:3558
 msgid "all the work of a previous generation is here."
-msgstr "这里留存着前代人的所有劳动果实"
+msgstr "šioje vietoje matosi praeitos kartos darbas."
 
 #: script/events/setpieces.js:3559
 msgid "ripe for the picking."
-msgstr "是时候采摘它们了"
-
-#~ msgid "Export"
-#~ msgstr "导出"
+msgstr "pilnai prinokęs."
